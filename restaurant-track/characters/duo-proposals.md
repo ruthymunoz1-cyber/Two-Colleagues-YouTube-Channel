@@ -12,7 +12,7 @@ The audience sees themselves in Maria: capable, hardworking, newer to English-sp
 | Attribute | Proposal |
 |-----------|----------|
 | Age | Adult (late 20s) |
-| Look | Warm brown skin, dark hair in a practical low bun, brown eyes |
+| Look | Medium olive skin (typical Latina tone), dark hair in a practical low bun, brown eyes |
 | Outfit | Black server apron over a fitted black polo, order pad in apron pocket, name tag "MARIA" |
 | Voice direction | Warm, slightly careful pacing — confidence grows across episodes |
 | Role in scripts | Learner proxy: asks questions, repeats phrases, makes the realistic small mistakes viewers make |
@@ -49,7 +49,7 @@ The experienced colleague, not a boss-villain. He models phrases, role-plays cus
 ## Character String (draft — for scene prompts once locked)
 
 ```
-Maria: adult woman, late 20s, warm brown skin, dark hair in a low bun, brown eyes,
+Maria: adult woman, late 20s, medium olive skin, dark hair in a low bun, brown eyes,
 black server apron over black polo, name tag. James: adult man, 40s, light-medium skin,
 short dark hair graying at the temples, dark button-down shirt with rolled sleeves,
 manager badge on lanyard.

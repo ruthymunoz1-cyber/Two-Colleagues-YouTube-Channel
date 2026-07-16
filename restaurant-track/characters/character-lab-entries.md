@@ -13,8 +13,8 @@ Field-by-field values to enter into the **RAMP studio → Character Lab**, match
 | Name | Maria |
 | Age | Late 20s (27) |
 | Race / ethnicity | Latina — Mexican heritage |
-| Skin tone (Monk scale 1–10) | **7** — warm brown |
-| Undertone | Warm / golden |
+| Skin tone (Monk scale 1–10) | **5** — medium olive (typical Latina tone) |
+| Undertone | Olive / warm-neutral |
 | Hair texture | **2C–3A** (defined waves/loose curls), dark brown |
 | Hair style | Practical low bun, a few loose strands at the temples (work-day realism) |
 | Eyes | Dark brown, alert, warm |
@@ -23,7 +23,7 @@ Field-by-field values to enter into the **RAMP studio → Character Lab**, match
 | Vibe | Warm, hardworking, quietly determined — confidence visibly grows across episodes |
 | Reference photos | None yet — generate from this entry, then the approved portrait becomes the reference |
 
-**Lighting note:** at Monk 7 the Lab auto-applies its deep-skin exposure guidance ("properly exposed for deep skin, warm golden rim light, no ashen grading") — leave it ON. This is the single most common failure of other tools with Maria's tone.
+**Lighting note:** at Monk 5 the Lab's deep-skin exposure guidance won't auto-apply (it triggers at deeper tones only). Watch generations for the opposite drift instead: AI models tend to wash olive tones toward generic pale-pink — if the portrait comes out lighter or pinker than intended, add "medium olive skin tone, warm-neutral undertone, no pink shift" to the prompt and regenerate before approving/pinning the seed.
 
 ### Voice (Voice Studio)
 

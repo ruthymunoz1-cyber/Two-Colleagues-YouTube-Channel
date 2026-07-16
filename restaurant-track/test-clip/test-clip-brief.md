@@ -12,8 +12,8 @@ One 15–30 second clip: **the manager hands the server a menu across the counte
 
 ```
 Realistic cinematic video, warm restaurant interior during pre-shift prep, soft natural
-window light. Two people at the service counter. Maria: adult woman, late 20s, warm
-brown skin, dark hair in a low bun, brown eyes, black server apron over black polo,
+window light. Two people at the service counter. Maria: adult woman, late 20s, medium
+olive skin, dark hair in a low bun, brown eyes, black server apron over black polo,
 name tag. James: adult man, 40s, light-medium skin, short dark hair graying at the
 temples, dark button-down shirt with rolled sleeves, manager badge on lanyard.
 James picks up a menu from the counter and hands it to Maria. Maria takes the menu
