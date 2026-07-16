@@ -1,11 +1,12 @@
 # The Production Company — How the Agent Team Works
 
-Nine roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/agents/). Any Claude session opened on this repo can dispatch them. One rule above all others: **nothing is published without Ruthy's explicit approval — ever.** The agents' job is to make sure there is always finished, approved-ready work waiting for that approval, never to skip it.
+Ten roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/agents/). Any Claude session opened on this repo can dispatch them. One rule above all others: **nothing is published without Ruthy's explicit approval — ever.** The agents' job is to make sure there is always finished, approved-ready work waiting for that approval, never to skip it.
 
 ## The roster
 
 | Agent | Role | Runs when |
 |-------|------|-----------|
+| `story-scout` | Scours Reddit/TikTok/Meta/YouTube/news in English + Spanish (+ more) for worker stories; scores demand with data; feeds story cards to the backlog | Weekly sweep, before the cycle |
 | `showrunner` | Coordinates the cycle, maintains the board, assembles Ruthy's approval packets | Weekly cycle + on demand |
 | `scriptwriter` | Drafts full episode scripts in the channel format | Board needs scripts |
 | `script-editor` | Rule compliance, B1–B2 level, runtime, continuity, AI-tell removal | After every draft/revision |
@@ -19,7 +20,8 @@ Nine roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/agen
 ## The pipeline (per episode)
 
 ```
-topic backlog
+story-scout sweep (evidence + demand score) → story cards
+   → topic backlog (GO cards only)
    → scriptwriter drafts → script-editor passes
    → ═══ GATE 1: RUTHY APPROVES SCRIPT ═══  (scripts always delivered as files to read)
    → scene-director + location-scout + sound-designer (parallel)
