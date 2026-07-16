@@ -26,6 +26,8 @@ Realistic cinematic AI video with **two characters + physical objects** (menus, 
 ## Repository Map
 
 ```
+.claude/agents/              The production company — 7 agent roles (see docs/production-company.md)
+docs/production-company.md   How the agent team, approval gates, and release calendar work
 docs/handoff-2026-07/        Source-of-truth handoffs (v2 current; v1 superseded)
 skills/two-colleagues-english/  Channel production skill (office track, v2 — current)
 skills/archive/              Superseded skill versions
@@ -38,6 +40,7 @@ restaurant-track/            ACTIVE: restaurant pivot workspace
   video-03-kitchen-english/  Outline (launch batch)
   video-04-calling-in-sick/  Outline (launch batch, new in handoff v2)
   video-05-shift-handover/   Outline (launch batch, new in handoff v2)
+  production/                Sound design spec · production board · location library
 ```
 
 ## Roadmap (from handoff v2 — launch = all 5 videos together, then 3/week)
