@@ -1,9 +1,8 @@
-# Restaurant Duo — Design & Naming Proposals
+# Restaurant Duo — Maria & James
 
-**Status:** DRAFT — awaiting Ruthy's pick + test-clip result before locking.
-Per the handoff, names follow the vidIQ language-mapped naming system, and the final visual design should match the still-vs-cinematic decision once the test clip is evaluated.
+**Status:** NAMES LOCKED ✅ (confirmed by Ruthy, July 2026). Visual design pending test-clip result — final look must match the still-vs-cinematic decision.
 
-## Recommended Pairing (English track)
+## Locked Pairing (English track)
 
 ### Maria — Restaurant Server (learner proxy)
 
@@ -57,7 +56,7 @@ manager badge on lanyard.
 
 ## To Lock (blocked on decisions)
 
-- [ ] Ruthy confirms name pairing (recommended: Maria + James)
+- [x] Ruthy confirms name pairing → **Maria + James** (confirmed July 2026)
 - [ ] Test clip passes/fails → confirms cinematic-realistic vs. illustrated-still design language
 - [ ] Generate + lock reference images (individual portraits + one combined scene, same as the office-track Canva workflow)
 - [ ] Pick the two voiceover voices and note their IDs here

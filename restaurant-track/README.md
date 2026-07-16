@@ -7,7 +7,7 @@ Worker-side restaurant/hospitality English for immigrant workers (B1–B2). vidI
 | # | Step (from handoff) | Status | Where |
 |---|--------------------|--------|-------|
 | 1 | 15–30s cinematic test clip — **production gate** | ☐ Not started | [`test-clip/test-clip-brief.md`](test-clip/test-clip-brief.md) |
-| 2 | Design + name the duo (server + manager) | 🟡 Proposals drafted | [`characters/duo-proposals.md`](characters/duo-proposals.md) |
+| 2 | Design + name the duo (server + manager) | 🟡 Names LOCKED: Maria + James; visual design pending test clip | [`characters/duo-proposals.md`](characters/duo-proposals.md) |
 | 3 | Lock reference images | ☐ Blocked on 1–2 | — |
 | 4 | Video 1 full script (incl. whiteboard recap) | 🟡 Draft v1 written | [`video-01-taking-orders/script-draft.md`](video-01-taking-orders/script-draft.md) |
 | 5 | Dual voiceovers | ☐ Blocked on 4 | — |
