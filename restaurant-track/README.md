@@ -10,20 +10,20 @@ Worker-side restaurant/hospitality English for immigrant workers (B1–B2). vidI
 
 | # | Video | Script status | Where |
 |---|-------|--------------|-------|
-| 1 | How to Take an Order in English — Even When the Customer Speaks Fast | 🟡 Full draft v2 | [`video-01-taking-orders/`](video-01-taking-orders/script-draft.md) |
-| 2 | When the Customer Is Angry — De-escalation Phrases That Work | ☐ Outline | [`video-02-angry-customer/`](video-02-angry-customer/outline.md) |
-| 3 | Kitchen English: What the Chef Is Actually Saying to You | ☐ Outline | [`video-03-kitchen-english/`](video-03-kitchen-english/outline.md) |
-| 4 | Calling In Sick — What to Say to Your Manager (Without Feeling Guilty) 🆕 | ☐ Outline | [`video-04-calling-in-sick/`](video-04-calling-in-sick/outline.md) |
-| 5 | Shift Handover: Telling the Next Server What They Need to Know 🆕 | ☐ Outline | [`video-05-shift-handover/`](video-05-shift-handover/outline.md) |
+| 1 | How to Take an Order in English — Even When the Customer Speaks Fast | 🟡 Full draft v2 — awaiting Ruthy review | [`video-01-taking-orders/`](video-01-taking-orders/script-draft.md) |
+| 2 | When the Customer Is Angry — De-escalation Phrases That Work | 🟡 Full draft v1 — awaiting Ruthy review | [`video-02-angry-customer/`](video-02-angry-customer/script-draft.md) |
+| 3 | Kitchen English: What the Chef Is Actually Saying to You | 🟡 Full draft v1 — awaiting Ruthy review | [`video-03-kitchen-english/`](video-03-kitchen-english/script-draft.md) |
+| 4 | Calling In Sick — What to Say to Your Manager (Without Feeling Guilty) 🆕 | 🟡 Full draft v1 — awaiting Ruthy review | [`video-04-calling-in-sick/`](video-04-calling-in-sick/script-draft.md) |
+| 5 | Shift Handover: Telling the Next Server What They Need to Know 🆕 | 🟡 Full draft v1 — awaiting Ruthy review | [`video-05-shift-handover/`](video-05-shift-handover/script-draft.md) |
 
 ## Pipeline
 
 | # | Step (from handoff v2) | Status | Where |
 |---|--------------------|--------|-------|
 | 1 | 15–30s cinematic test clip — **production gate** | ☐ Not started | [`test-clip/test-clip-brief.md`](test-clip/test-clip-brief.md) |
-| 2 | Design + name the duo (server + manager) | 🟡 Names LOCKED: Maria + James; visual design pending test clip | [`characters/duo-proposals.md`](characters/duo-proposals.md) |
-| 3 | Lock reference images | ☐ Blocked on 1–2 | — |
-| 4 | Full scripts for ALL 5 launch videos (each with whiteboard recap) | 🟡 1 of 5 drafted; 4 outlined | see launch table above |
+| 2 | Design + name the duo (server + manager) | 🟡 Names LOCKED: Maria + James; Character Lab entries ready; visuals pending test clip | [`characters/character-lab-entries.md`](characters/character-lab-entries.md) |
+| 3 | Lock reference images | ☐ Ready to run — enter Lab entries, generate turnaround sheets | [`characters/character-lab-entries.md`](characters/character-lab-entries.md) |
+| 4 | Full scripts for ALL 5 launch videos (each with whiteboard recap) | 🟡 All 5 drafted — awaiting Ruthy review | see launch table above |
 | 5 | Dual voiceovers for the launch batch | ☐ Blocked on 4 | — |
 | 6 | Compose all 5 episodes; evaluate vs. risk flag before launch + 3/week cadence | ☐ Blocked on 5 | — |
 

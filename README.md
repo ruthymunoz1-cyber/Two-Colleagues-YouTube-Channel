@@ -45,7 +45,7 @@ restaurant-track/            ACTIVE: restaurant pivot workspace
 1. ☐ Generate 15–30s cinematic test clip (duo + single object) — **production gate**
 2. 🟡 Design the restaurant duo — names LOCKED (Maria + James); visuals pending test clip
 3. ☐ Lock reference images for the new duo
-4. 🟡 Full scripts for all 5 launch videos — Video 1 drafted, Videos 2–5 outlined
+4. 🟡 Full scripts for all 5 launch videos — all 5 drafted, awaiting review
 5. ☐ Produce dual voiceovers for the launch batch
 6. ☐ Compose all 5 episodes; evaluate against risk flag before launch and 3-videos/week cadence
 

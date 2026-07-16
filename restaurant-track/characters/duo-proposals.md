@@ -1,6 +1,7 @@
 # Restaurant Duo — Maria & James
 
 **Status:** NAMES LOCKED ✅ (confirmed by Ruthy, July 2026). Visual design pending test-clip result — final look must match the still-vs-cinematic decision.
+**Next:** field-by-field RAMP studio Character Lab entries are ready in [`character-lab-entries.md`](character-lab-entries.md).
 
 ## Locked Pairing (English track)
 
