@@ -1,7 +1,7 @@
 # Video 6 — Script Draft
 
 **Working title:** "That's Not What I Ordered" — When You're Blamed for the Kitchen's Mistake
-**Status:** DRAFT v1 — awaiting script-editor pass
+**Status:** DRAFT v2 — editor-passed, awaiting Ruthy review *(⚠️ runtime flag: estimates ~1–2 min over the 10-min ceiling at checklist pacing — proposed cuts in "Editor's notes to scriptwriter" below)*
 **Level:** B1–B2 — first post-launch episode; Maria's fluency is noticeably higher than in the launch batch
 **Characters:** Maria (server) · James (manager, mentor — role-plays the blaming customer AND the chef at the pass)
 **Positioning note:** NOT a rehash of Video 2. V2 teaches calming ANGER (loud customer, de-escalation ladder). This episode teaches navigating BLAME: the customer is cold and pointed, not loud; the problem is whose mistake it is — and the second half is a conversation V2 never touches: raising it with the kitchen afterward.
@@ -157,7 +157,7 @@
 
 **MARIA:** Deal.
 
-**JAMES (as himself):** Notice — she didn't get an apology. She got a SYSTEM. "I'm not blaming anyone" lets someone say "that one's mine" without losing face. Corner people and they defend till midnight. Give them room, and they hand you the truth.
+**JAMES (as himself):** Notice — she didn't get an apology. She got a SYSTEM. "I'm not blaming anyone" lets someone say "that one's mine" without losing face. Push people into a corner and they'll defend themselves all night. Give them room, and they hand you the truth.
 
 ---
 
@@ -231,7 +231,7 @@
 
 **MARIA:** Next shift, when a mistake lands on you that isn't yours — try the four strange words, then tell us what happened in the comments. We read every one.
 
-**JAMES:** Next episode: money. Tips, tip-outs, splitting the bill — the questions everyone thinks about and nobody asks out loud.
+**JAMES:** Next episode: nobody's angry, nobody's fast — and your English still stops. What to say when your own words freeze in the middle of a sentence.
 
 **MARIA:** Subscribe so you don't miss it. We're Two Colleagues —
 
@@ -269,3 +269,23 @@
 **Description draft:** The kitchen sends out the wrong dish — and the customer blames YOU. Don't say "it wasn't me," and don't take the fault for food you didn't cook. Learn the 8 phrases for both conversations: handling the blame at the table with one pronoun ("we"), running the fix to the kitchen without starting a war, and the after-the-rush talk that stops the mistake from happening every Friday. Worker-side restaurant English for servers (B1–B2).
 
 **Tags (starter set):** blamed at work english, restaurant english, english for servers, wrong order restaurant, kitchen mistake, workplace english, english for restaurant workers, difficult conversations english, ESL work english, two colleagues english
+
+---
+
+## Editor's changes (script-editor pass, 2026-07-16)
+
+1. **Status line** updated to editor-passed (v2), with a runtime flag.
+2. **Outro tease corrected (continuity):** the draft teased "money — tips, tip-outs, splitting the bill" as the next episode, but the production board airs ep 7 ("When Your English Freezes") before ep 8 (tips/money) — both this episode and ep 7 are week 2. The tease now points at ep 7; ep 7's own outro already teases ep 8 correctly, so the chain is consistent. (This also resolves the ⚠️ mismatch flag in ep 7's production notes.)
+3. **Part 4, James's debrief:** "Corner people and they defend till midnight" → "Push people into a corner and they'll defend themselves all night." "Corner" as a verb is above B1–B2 and the compressed aphorism read as written-not-spoken; the expanded form keeps the meaning and the rhythm.
+
+*Checked and deliberately NOT changed:* the Part 1 "wear it / carry it" beat (protected, untouched); the V2 callbacks in the payoff ("You're right — that's not what you ordered," "Thank you for your patience") — correctly flagged in-world as Maria's angry-customer training, not re-taught; the V3 callbacks ("on the fly," "Heard") — both used accurately per V3's definitions; table 12 as the recurring trouble table (matches V2/V3/V5). Phrase 2 ("We got that wrong — let me fix it for you") shares its fix-clause with V2's "Let me fix that for you right away," but the taught content here is the pronoun "we," which V2 never covers, and the script acknowledges the V2 DNA in-world — acceptable, no change.
+
+## Editor's notes to scriptwriter (runtime — needs your cut, not mine)
+
+**Estimate:** 1,163 dialogue words ≈ 9.7–11.1 min of speech at 105–120 wpm, + 15s of recap pauses + ~1 min of beats (THE WALK, holds) = **~10.9–12.3 min as written**, against a ~8.5-min target and a 10-min ceiling. The draft's own header predicted this ("runs denser… script-editor may trim") — but landing it needs ~200–250 words out, which is your call, not line-surgery from me. None of these touch the phrase bank or the protected beat:
+
+- **Part 3 (lines around "Show me the lawyer version"):** the failed-demo → bristle → debrief block is the biggest optional unit (~55 words). The wrong-way/right-way demo is the show's pattern, so alternatively keep it and halve James's debrief after "Heard. Bolognese on the fly."
+- **Part 5 dissolve coda:** "The wait was bad. But you handled it well." + Maria's to-camera close (~40 words) can compress to one exchange; the payoff has already landed by then.
+- **Part 2:** "You'll run it live before the night's over." (~9 words) — the payoff arrives regardless.
+- **Recap answers** Q2 and Q5 can each lose a tail clause (~20 words total) without losing phrase coverage.
+- If more is needed, Part 1 can lose "Of course he did." → start James at "You're the only face he ever sees."

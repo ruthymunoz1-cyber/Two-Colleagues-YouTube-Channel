@@ -1,7 +1,7 @@
 # Video 7 — Script Draft
 
 **Working title:** When Your English Freezes — Recovery Phrases for the Moment You Go Blank
-**Status:** DRAFT v1 — awaiting script-editor pass
+**Status:** DRAFT v2 — editor-passed, awaiting Ruthy review *(⚠️ runtime flag: dialogue runs ~14–16 min at checklist pacing against an ~8-min target — needs a scriptwriter compression pass; specifics in "Editor's notes to scriptwriter" below)*
 **Level:** B1–B2 — Maria's fluency stays at her post-launch baseline; the freeze is NOT a comprehension problem, and the script never writes her as incompetent. Freezing happens at every level — that's the point.
 **Characters:** Maria (server) · James (manager, mentor — role-plays the customer; also freezes for real, on camera, once)
 **Positioning note:** NOT a rehash of Video 1. V1 solves the customer's speed — their words coming at you too fast. This episode solves YOUR OWN words failing you mid-sentence. "Sorry, could you say that again a little slower?" exists here only as a one-line callback, never re-taught.
@@ -200,7 +200,7 @@
 
 **JAMES:** Question one: mid-sentence, the word disappears. What's the first rule?
 **[PAUSE — 3s]**
-**MARIA:** Make a sound, not a silence. "Give me one second — I want to get this exactly right."
+**MARIA:** Make a sound, not a silence. "Give me one second — I want to get this exactly right." Or think out loud: "What's the word I want…"
 
 **JAMES:** Question two: the whole sentence falls down. Two phrases — the pair?
 **[PAUSE — 3s]**
@@ -224,7 +224,7 @@
 
 ## OUTRO + CTA (8:10–8:40)
 
-**MARIA:** Your English is going to freeze next shift. That's not a maybe — it's the deal with a second language, and it's the deal with a first one too. So when it happens: make a sound. Then come tell us in the comments which phrase carried you — we read every single one.
+**MARIA:** Your English is going to freeze next shift. That's not a maybe — it comes with a second language, and it comes with a first one too. So when it happens: make a sound. Then tell us in the comments which phrase carried you — we read every single one.
 
 **JAMES:** Next episode: money. Tips, tip-outs, splitting the bill — the questions everyone thinks about and nobody asks out loud.
 
@@ -246,7 +246,7 @@
 
 ## Production Notes
 
-- **⚠️ CONTINUITY MISMATCH — needs a decision before lock:** Video 6's outro currently teases "money. Tips, tip-outs, splitting the bill" as the NEXT episode, but this episode (#7) airs after it. This script's outro teases ep 8 = money, so the chain is consistent **once V6's outgoing tease is updated by its owner** (one-line change: tease the freeze episode instead) — or the airing order swaps. Flagging for script-editor + Ruthy; do not resolve inside this script.
+- **✅ CONTINUITY MISMATCH — RESOLVED (script-editor pass, 2026-07-16):** verified against the production board: airing order is ep 6 → ep 7, both week 2, with ep 8 = "Talking About Tips & Splitting the Bill." V6's outgoing tease has been updated (in V6's editor pass, same date) to tease THIS episode instead of the money topic. This script's outro tease of ep 8 = money is correct and unchanged, and the "table 12 last Friday" callback in Part 4 is safe as written. Chain is now consistent; nothing to resolve inside this script.
 - **Emotional beat to protect:** end of Part 4 — James: **"One lost word doesn't make you the stupid one in that conversation. You're the only person in it who's doing everything twice."** No music under it; hold on Maria after — she doesn't reply, and no line is added there in any edit. This is the episode's core and the line viewers will send to a coworker. (Secondary protected moment: Maria's "There's a voice, and it's in Spanish" confession in Part 1 — keep the room quiet and the shot still.)
 - **The honest payoff is the positioning:** Maria freezes AGAIN in the payoff — same word, same table. The 186 Meta ads sell fear-elimination; we sell fear-navigation. Do not "fix" this in editing by making her fluent. The promise of the episode is that the freeze returns and doesn't win.
 - **Spanish-first packaging (card 8):** the two VO lines marked TRANSLATABLE are written to port word-for-word — VO 1: "Y me sentí tonta. Una palabra, y me sentí tonta." (the ad-market pain line, near-verbatim); VO 2: "¿Y la voz que dice *eres tonta*? Nunca llegó. No tiene nada que decir cuando sigues hablando." Hand these to seo-packager/social-producer as the lead lines for Spanish packaging. Episode dialogue itself stays English (channel format).
@@ -269,3 +269,27 @@
 **Description draft:** Your English WILL freeze mid-sentence — it happens to native speakers too. What matters is the next two seconds. Learn the 8 recovery phrases professionals actually use when a word disappears: how to buy time out loud ("Give me one second — I want to get this exactly right"), reset a collapsed sentence ("My mind just went blank — let me start again"), describe around a missing word, ask for help without shame ("How do you say…?"), and walk away without that voice in your head. Worker-side restaurant English for servers (B1–B2). Freezing isn't failing — silence is the only enemy.
 
 **Tags (starter set):** english freeze, mind goes blank english, english speaking fear, speak english without fear, ingles para meseros, ingles sin miedo, restaurant english, english for servers, workplace english, ESL speaking confidence, english for restaurant workers, two colleagues english
+
+---
+
+## Editor's changes (script-editor pass, 2026-07-16)
+
+1. **Status line** updated to editor-passed (v2), with a runtime flag for the scriptwriter.
+2. **Recap, Question 1 answer:** added phrase 4 ("What's the word I want…") — it was the only phrase-bank item the recap never covered, which breaks the locked v2 rule that the recap covers all eight. Folded into Q1 since it belongs to the same "make a sound" move; the Q → 3s pause → A rhythm is unchanged.
+3. **Outro, Maria:** "it's the deal with a second language, and it's the deal with a first one too" → "it comes with a second language, and it comes with a first one too." "That's the deal with X" is an above-level idiom in the one sentence the whole audience must catch; also "come tell us" → "tell us."
+4. **Production notes:** the ⚠️ continuity-mismatch flag is resolved and annotated in place — board order (ep 6 → ep 7, both week 2) verified, and V6's outgoing tease was corrected in V6's editor pass to tease this episode. The "table 12 last Friday" callback stands as written.
+
+*Checked and deliberately NOT changed:* both protected beats (end of Part 4, and the "voice in Spanish" confession) — untouched, per production notes; the V1 boundary — "You taught me what to do when THEY talk too fast" is the only V1 reference and no V1 phrase is re-taught (output-side vs input-side holds); Priya stays off-screen-name-only (precedent: Sam in V4); table 6, not 12, per the production note's reasoning; salmon as the special is not a clash with V3/V5's "86 salmon" (different night — the 86 was that night only); the honest double-freeze payoff — protected positioning, untouched.
+
+## Editor's notes to scriptwriter (structural — runtime needs YOUR pass)
+
+**Estimate:** 1,570 dialogue words ≈ 13.1–15.0 min of speech at 105–120 wpm, + 15s recap pauses + ~1 min of beats (this episode's silence design adds more, not less) = **~14.3–16.2 min as written**, against an ~8-min target and the 10-min ceiling. The scene timings in the headers (ending 8:40) imply ~200 wpm — not survivable at this channel's ESL pacing. This is too deep for editor line-surgery: roughly **500–600 words need to come out** to get under 10 minutes (~1,000–1,050 words total to hit the stated ~8). The weight is almost entirely in James's teaching monologues (eight speeches of 45–82 words; V1's template rarely lets him pass 40). Nothing below touches the phrase bank or either protected beat:
+
+- **Part 1:** James's two long speeches (~145 words combined). "Because everybody sells 'speak without fear,' and nobody teaches the two seconds where the fear actually lives" duplicates positioning already in the cold open and payoff VO. The Tuesday-"inventory" story can carry the whole reframe; the staged roadblock + "Exactly. Because I didn't go silent…" speech can halve. Est. −80.
+- **Part 2:** "Here's the secret of the freeze…" (~59) → the secret in two sentences; "That's the answer you'll get, by the way…" (~42) → one sentence ending at "You sound like everyone."; "Now you're getting it. One more sound…" (~52) → trim the setup. Est. −90.
+- **Part 3:** "Move two…" (~57) → cut the panic explanation, keep "you lost ONE WORD, not the meaning"; "I know it does. Now watch his face…" (~62) → cut "Asking isn't defeat. Asking is what confident people do…" (keep the salmon lines — Maria's reply depends on them); "Look what happened…" (~45) → trim. Est. −70.
+- **Part 4:** "Last move — the one that decides…" (~49) → trim the framing; in the 82-word bar speech, cut "One frozen sentence doesn't erase one shift of that. It can't. It's one sentence." (restated verbatim-in-spirit by recap Q5) — keep the table-12 callback and "you're the only person in the building still carrying it." **Do not touch the bolded protected line or the hold after it.** Est. −40.
+- **Recap:** answers can lose ~20 words of tails without losing phrase coverage.
+- That's ~−300 by line trims alone; the remaining ~−250 has to come from compressing whole teaching exchanges (e.g., Part 2 teaches three phrases with full coaching cycles each — two can share one demo/debrief). Your structural call, not mine.
+
+*(Minor, roll into the same pass: "Americans say it in meetings, on dates, on television" — the triple list reads written; two items land more spoken.)*
