@@ -15,15 +15,24 @@ Gates are Ruthy's alone. See [`docs/production-company.md`](../../docs/productio
 
 *(Note: launch scripts were drafted before the script-editor agent existed — an editor pass over all 5 is queued as the first agent task.)*
 
+## Post-launch production
+
+| Ep | Title | State | Cost est. | Gate 1 (script) | Gate 2 (final) | Publish date |
+|----|-------|-------|-----------|-----------------|----------------|--------------|
+| 6 | "That's Not What I Ordered" — When You're Blamed for the Kitchen's Mistake | drafting | — | ☐ | ☐ | week 2 |
+
+*Ep 6 promoted from story-pipeline sweep #1 (demand 9/10, GO — approved by Ruthy 2026-07-16).*
+
 ## Topic backlog (post-launch, restaurant track — draft order)
 
 | Ep | Working topic | Source |
 |----|--------------|--------|
-| 6 | Talking About Tips & Splitting the Bill | natural follow-on to V1 |
-| 7 | "We're Short-Staffed Tonight" — Asking For and Offering Help | worker-side gap |
-| 8 | Small Talk With Regulars (Without Running Out of English) | bar-regular thread from V5 |
-| 9 | Asking Your Manager for a Day Off / Schedule Change | pairs with V4 |
-| 10 | Training the New Hire — When YOU Are the Experienced One | Maria's arc payoff |
+| 7 | Talking About Tips & Splitting the Bill | natural follow-on to V1 |
+| 8 | "We're Short-Staffed Tonight" — Asking For and Offering Help | worker-side gap; validated by sweep #1 |
+| 9 | Small Talk With Regulars (Without Running Out of English) | bar-regular thread from V5 |
+| 10 | Asking Your Manager for a Day Off / Schedule Change | pairs with V4 |
+| 11 | Training the New Hire — When YOU Are the Experienced One | Maria's arc payoff; sweep #1 suggests moving up (30.5M-view signal) — Ruthy's call |
+| — | "When Your English Freezes" (recovery phrases) | sweep #1 GO card (8/10) — awaiting slotting |
 
 ## Production blockers (before any composition)
 
