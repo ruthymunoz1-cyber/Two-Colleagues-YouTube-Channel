@@ -48,8 +48,20 @@ Watch frame-by-frame at the hand-off moment. **Any one failure = FAIL.**
 
 Note: the Video 1 script is written to be **format-agnostic** — dialogue, whiteboard cues, and recap segment work identically in either format; only the scene-direction lines change.
 
+## Model Plan (from the RAMP studio registry, July 2026)
+
+| Model | Price | Role in this project |
+|-------|-------|---------------------|
+| **Kling v3 Pro (image→video)** | $0.168/s | **Primary.** Cinematic quality, image-to-video (accepts the turnaround sheets), best value in the registry. A 20s test ≈ $3.36. |
+| Seedance 2.0 Pro (image→video) | $0.680/s | **Challenger — run ONLY if Kling fails the checklist.** 4× Kling's price; its headline feature (synced audio) is wasted here since we replace clip audio with our own VO + ambience mix. 20s test ≈ $13.60. |
+| Seedance 2.0 Fast | $0.242/s | Skip — 720p drafts that cost MORE than Kling Pro's full quality. |
+| Hailuo 02 (text→video) | $0.045/s | Never for character scenes (no start image = can't use turnaround sheets). Excellent for cheap establishing/B-roll shots (restaurant exterior, street, city morning). |
+| Kling v3 4K | $0.42/s | Not needed — 1080p is fine for YouTube educational; Topaz upscale exists if ever required. |
+
+**Decision rule:** Kling v3 Pro first. Pass → it's the workhorse for all 5 episodes. Fail → pay for one Seedance 2.0 Pro attempt with the same prompt + sheets. Both fail → still-image fallback format (no further model shopping).
+
 ## Result Log
 
 | Date | Tool/model | Result | Notes |
 |------|-----------|--------|-------|
-| _pending_ | | | |
+| _pending_ | Kling v3 Pro | | |
