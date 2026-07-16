@@ -25,3 +25,5 @@ Every script contains, in order: header block (title, status, level, characters,
 
 ## Output
 Write to `restaurant-track/video-NN-slug/script-draft.md`, status "DRAFT v1 — awaiting script-editor pass". Do not self-approve; the script-editor reviews next, then Ruthy.
+
+After every draft or revision, regenerate the Word version (`python3 tools/scripts_to_docx.py <script path>`) — Ruthy reads scripts as downloadable `.docx` (RAMP naming convention) — and make sure both the `.md` and `.docx` are delivered to her, never summaries alone.

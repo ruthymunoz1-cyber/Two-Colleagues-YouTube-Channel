@@ -1,6 +1,6 @@
 # The Production Company — How the Agent Team Works
 
-Seven roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/agents/). Any Claude session opened on this repo can dispatch them. One rule above all others: **nothing is published without Ruthy's explicit approval — ever.** The agents' job is to make sure there is always finished, approved-ready work waiting for that approval, never to skip it.
+Nine roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/agents/). Any Claude session opened on this repo can dispatch them. One rule above all others: **nothing is published without Ruthy's explicit approval — ever.** The agents' job is to make sure there is always finished, approved-ready work waiting for that approval, never to skip it.
 
 ## The roster
 
@@ -13,6 +13,8 @@ Seven roles, defined as Claude Code agents in [`.claude/agents/`](../.claude/age
 | `location-scout` | Reusable setting library + continuity | With scene-director |
 | `sound-designer` | Per-episode mix sheet (beds, silence windows, voice direction) | With scene-director |
 | `seo-packager` | Title/description/tags/thumbnail brief/chapters/`.srt` check | Episode composed |
+| `social-producer` | Cuts Shorts/Reels/TikToks/Stories WITH baked captions + weekly social calendar | After Gate 2 |
+| `community-manager` | Weekly digest: comment triage, drafted replies, community-post drafts, topic mining | Weekly (post-launch) |
 
 ## The pipeline (per episode)
 
@@ -25,7 +27,14 @@ topic backlog
    → seo-packager builds the publish package
    → ═══ GATE 2: RUTHY APPROVES FINAL CUT + PACKAGE ═══
    → Ruthy uploads & publishes on YouTube (manual, always)
+   → social-producer cuts the vertical clip set (captions baked in) + calendar
+   → Ruthy posts/schedules social from the prepared set
+   → community-manager mines the response into next episodes (weekly)
 ```
+
+**Caption rule, both directions:** main episodes = never burned in (`.srt` upload only) · social clips = ALWAYS burned in (muted autoplay). Both are locked.
+
+**What social/community agents can and can't automate (honest boundary):** they prepare everything — rendered clips, captions, post copy, reply drafts, community-post drafts — but no tool here can post to YouTube/TikTok/Instagram or send replies. Ruthy (or a scheduler like YouTube Studio's built-in scheduling / Meta Business Suite, fed with the prepared set) does the actual posting. In practice this is ~15 minutes of pasting per week, and it doubles as the final human check.
 
 Two gates, both Ruthy's. Everything between the gates is autonomous. Agents record gate decisions on the production board; an unrecorded approval doesn't exist.
 
