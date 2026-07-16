@@ -22,6 +22,8 @@ DOCX_NAMES = {
     "video-03-kitchen-english": "RAMP_KitchenEnglish_VideoScript.docx",
     "video-04-calling-in-sick": "RAMP_CallingInSick_VideoScript.docx",
     "video-05-shift-handover": "RAMP_ShiftHandover_VideoScript.docx",
+    "video-06-blamed-for-kitchen": "RAMP_BlamedForKitchen_VideoScript.docx",
+    "video-07-english-freezes": "RAMP_EnglishFreezes_VideoScript.docx",
 }
 
 
