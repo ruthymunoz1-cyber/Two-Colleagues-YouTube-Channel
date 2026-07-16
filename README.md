@@ -19,26 +19,34 @@ Production repository for the YouTube channel **Two Colleagues English** (`@TwoC
 
 ## ⚠️ Standing Production Risk
 
-Realistic cinematic AI video with **two characters + physical objects** (menus, plates, trays) is the highest-risk combination for AI generation failures (detached body parts, missing environment — observed in a prior test). **Every new production approach must be piloted with a 15–30 second test clip before a full episode is committed.** Fallback format: still-image character cards + dual voiceover + captions + real B-roll. See [`docs/handoff-2026-07/handoff.md`](docs/handoff-2026-07/handoff.md).
+Realistic cinematic AI video with **two characters + physical objects** (menus, plates, trays) is the highest-risk combination for AI generation failures (detached body parts, missing environment — observed in a prior test). **Every new production approach must be piloted with a 15–30 second test clip before a full episode is committed.** Fallback format: still-image character cards + dual voiceover + captions + real B-roll. See [`docs/handoff-2026-07/handoff-v2.md`](docs/handoff-2026-07/handoff-v2.md) — **v2 is current** (v1 kept for history).
+
+**Locked production rules (v2):** whiteboard element appears only in the end-recap segment · no captions burned into visuals (YouTube native toggle only) · vendor is substitutable, constraints are not.
 
 ## Repository Map
 
 ```
-docs/handoff-2026-07/        Source-of-truth handoff (PDF + markdown transcription)
+docs/handoff-2026-07/        Source-of-truth handoffs (v2 current; v1 superseded)
 skills/two-colleagues-english/  Channel production skill (office track, v2 — current)
 skills/archive/              Superseded skill versions
 office-track/                Shelved office track (Marcia & Dave) — status + asset pointers
 restaurant-track/            ACTIVE: restaurant pivot workspace
-  characters/                Restaurant duo design + naming proposals
+  characters/                Restaurant duo — Maria & James (names LOCKED)
   test-clip/                 Test-clip brief (gate before full production)
-  video-01-taking-orders/    Video 1 script: "How to Take an Order in English"
+  video-01-taking-orders/    Full script draft v2
+  video-02-angry-customer/   Outline (launch batch)
+  video-03-kitchen-english/  Outline (launch batch)
+  video-04-calling-in-sick/  Outline (launch batch, new in handoff v2)
+  video-05-shift-handover/   Outline (launch batch, new in handoff v2)
 ```
 
-## Roadmap (from handoff)
+## Roadmap (from handoff v2 — launch = all 5 videos together, then 3/week)
 
 1. ☐ Generate 15–30s cinematic test clip (duo + single object) — **production gate**
-2. ☐ Design and name the restaurant duo (server + manager) — proposals drafted in `restaurant-track/characters/`
+2. 🟡 Design the restaurant duo — names LOCKED (Maria + James); visuals pending test clip
 3. ☐ Lock reference images for the new duo
-4. ☐ Finalize Video 1 script — draft in `restaurant-track/video-01-taking-orders/`
-5. ☐ Produce dual voiceovers
-6. ☐ Compose episode; evaluate against risk flag before scaling to 3 videos/week
+4. 🟡 Full scripts for all 5 launch videos — Video 1 drafted, Videos 2–5 outlined
+5. ☐ Produce dual voiceovers for the launch batch
+6. ☐ Compose all 5 episodes; evaluate against risk flag before launch and 3-videos/week cadence
+
+**Tooling (per v2 caveat):** vidIQ for research/titles/thumbnails scoring; the [RAMP "Ramping It Up" studio](https://github.com/ruthymunoz1-cyber/Ramping-it-up-video-and-content-studio) for character design, video generation, lip sync, voiceover dialogue, whiteboard recap, and assembly.

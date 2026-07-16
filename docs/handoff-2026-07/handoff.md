@@ -1,4 +1,6 @@
-# Two Colleagues English — Production Handoff
+# Two Colleagues English — Production Handoff (v1 — SUPERSEDED)
+
+> ⚠️ **SUPERSEDED by [`handoff-v2.md`](handoff-v2.md)** (July 2026). v2 changes: 5-video launch batch (adds "Calling In Sick" + "Shift Handover"), whiteboard restricted to the recap segment only, no hardcoded captions, and vidIQ demoted from requirement to default tool. Kept for history.
 
 **Prepared for:** Fable + Cowork | RAMP Linguistic Society | July 2026
 **Source:** `TwoColleaguesEnglish_RestaurantPivot_Handoff.pdf` (this file is a markdown transcription for searchability)

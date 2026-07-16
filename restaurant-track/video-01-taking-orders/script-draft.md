@@ -1,15 +1,19 @@
 # Video 1 — Script Draft
 
 **Working title:** How to Take an Order in English — Even When the Customer Speaks Fast
-**Status:** DRAFT v1 — dialogue and structure ready for review; scene directions written for the cinematic format with a still-image fallback (format-agnostic dialogue).
+**Status:** DRAFT v2 — updated for handoff v2 rules (whiteboard recap-only, no hardcoded captions).
 **Level:** B1–B2 (natural workplace English; no textbook drills)
 **Characters:** Maria (server, learner proxy) · James (manager, mentor — also role-plays the fast customer)
 **Runtime target:** ~8 minutes + 60-second Shorts promo
-**Required elements (per handoff):** dual voiceovers · animated whiteboard vocabulary · end-segment whiteboard recap (question → pause → answer)
+**Required elements (per handoff v2):** dual voiceovers · end-segment whiteboard recap (question → pause → answer)
+
+**⚠️ v2 production rules (locked):**
+- The animated whiteboard appears **ONLY in the recap segment** — the main episode has no on-screen vocabulary overlays. Key phrases land through spoken repetition instead (each phrase is modeled by James, repeated by Maria, then used again in the payoff scene).
+- **No captions/subtitles baked into the visuals.** Export a word-timed `.srt` and upload as optional YouTube closed captions.
 
 ---
 
-## Whiteboard Phrase Bank (the 8 phrases this episode teaches)
+## Phrase Bank (the 8 phrases this episode teaches — shown on the whiteboard ONLY in the recap)
 
 1. "Are you ready to order?"
 2. "Can I get you started with something to drink?"
@@ -32,9 +36,9 @@
 
 **MARIA (voiceover, to camera):** Real customers don't speak like your English textbook. They speak like *that*.
 
-**[WHITEBOARD ANIMATION: title writes itself on screen — "Take Any Order. Any Speed."]**
-
 **MARIA (VO):** By the end of this video, you'll handle that exact order — without panicking. Let's go back to this morning, before my shift.
+
+*(No on-screen title animation — per v2 rules the episode carries no overlays; the whiteboard is reserved for the recap.)*
 
 ---
 
@@ -48,9 +52,7 @@
 
 **JAMES:** Everybody feels that. Here's the secret nobody tells you: you don't need to understand every word. You need three skills.
 
-**[WHITEBOARD: the three skills appear as a numbered list, one by one]**
-
-**JAMES:** One — control the start of the conversation. Two — slow the customer down politely. Three — repeat the order back. Master those, and speed stops mattering.
+**JAMES (counting on his fingers):** One — control the start of the conversation. Two — slow the customer down politely. Three — repeat the order back. Master those, and speed stops mattering.
 
 **MARIA:** That's it?
 
@@ -62,9 +64,9 @@
 
 **[SCENE: James sits at a table playing the customer. Maria approaches with pad.]**
 
-**JAMES (as himself, aside):** When YOU speak first, YOU set the speed. Start every table the same way.
+**JAMES (as himself, aside):** When YOU speak first, YOU set the speed. Start every table the same way: *"Are you ready to order?"* Try it.
 
-**[WHITEBOARD: Phrase 1 — "Are you ready to order?"]**
+*(KEY PHRASE 1 — taught through spoken repetition; no on-screen text)*
 
 **MARIA:** Hi! Are you ready to order?
 
@@ -72,9 +74,9 @@
 
 **MARIA:** Of course, take your time.
 
-**JAMES (as himself):** Good. And if they're not ready, sell a drink — it buys you time and the restaurant loves you for it.
+**JAMES (as himself):** Good. And if they're not ready, sell a drink — it buys you time and the restaurant loves you for it. Say: *"Can I get you started with something to drink?"*
 
-**[WHITEBOARD: Phrase 2 — "Can I get you started with something to drink?"]**
+*(KEY PHRASE 2 — spoken repetition)*
 
 **MARIA:** Can I get you started with something to drink?
 
@@ -92,9 +94,9 @@
 
 **MARIA:** …I got "sandwich."
 
-**JAMES (as himself, laughing):** That's fine! That's normal. Here's your magic phrase — and listen, customers are NOT annoyed when you use it. They'd rather repeat it than get the wrong food.
+**JAMES (as himself, laughing):** That's fine! That's normal. Here's your magic phrase — and listen, customers are NOT annoyed when you use it. They'd rather repeat it than get the wrong food. The phrase is: *"Sorry, could you say that again a little slower?"* Your turn.
 
-**[WHITEBOARD: Phrase 3 — "Sorry, could you say that again a little slower?"]**
+*(KEY PHRASE 3 — spoken repetition)*
 
 **MARIA:** Sorry, could you say that again a little slower?
 
@@ -102,11 +104,9 @@
 
 **JAMES (as himself):** Notice: you don't say "I don't understand." You give them an instruction — *slower* — and people follow it automatically.
 
-**[WHITEBOARD: side-by-side — ❌ "I don't understand" → ✅ "Could you say that again a little slower?"]**
+**JAMES (as himself):** One more tool. If you caught PART of it, confirm the part you have. Don't restart from zero. Start with: *"Let me make sure I got that."*
 
-**JAMES (as himself):** One more tool. If you caught PART of it, confirm the part you have. Don't restart from zero.
-
-**[WHITEBOARD: Phrase 4 — "Let me make sure I got that."]**
+*(KEY PHRASE 4 — spoken repetition)*
 
 **MARIA:** Let me make sure I got that — club sandwich, no mayo… what was the last part?
 
@@ -118,17 +118,17 @@
 
 ## PART 4 — SKILL 3: REPEAT IT BACK (4:20–5:50)
 
-**JAMES (as himself):** Last skill — the one that saves you every single shift. Before you walk away, repeat the whole order back. Servers who do this almost never bring the wrong food.
+**JAMES (as himself):** Last skill — the one that saves you every single shift. Before you walk away, repeat the whole order back, starting with two little words: *"So that's…"* Servers who do this almost never bring the wrong food.
 
-**[WHITEBOARD: Phrase 5 — "So that's…"]**
+*(KEY PHRASE 5 — spoken repetition)*
 
 **MARIA:** So that's one club sandwich, no mayo, add avocado, and a lemonade.
 
 **JAMES (as customer):** That's right.
 
-**JAMES (as himself):** And while you're taking the order, you drive it with clarifying questions. You ask — they answer. Short questions keep you in control.
+**JAMES (as himself):** And while you're taking the order, you drive it with clarifying questions. You ask — they answer. Short questions keep you in control. Watch how many I can answer without slowing you down.
 
-**[WHITEBOARD: Phrases 6, 7, 8 appear as a set — "How would you like that cooked?" / "Was that with fries or a salad?" / "Anything else for you?"]**
+*(KEY PHRASES 6–8 — demonstrated live in the exchange below; no on-screen text)*
 
 **JAMES (as customer):** I'll do the burger.
 
@@ -219,7 +219,7 @@
 ## SHORTS PROMO — 5 scenes, 9:16, <60s (channel formula)
 
 1. **Hook (0–5s):** Fast customer audio over Maria's frozen face. Text overlay: "When the customer speaks THIS fast…"
-2. **Sample:** The magic phrase — "Sorry, could you say that again a little slower?" (whiteboard overlay)
+2. **Sample:** The magic phrase — "Sorry, could you say that again a little slower?" (bold text overlay — Shorts promos keep text overlays; the no-overlay rule applies to main episodes only)
 3. **Sample:** "Let me make sure I got that." (confirm the part you heard)
 4. **Sample:** Repeat-it-back — "So that's…" payoff moment
 5. **CTA:** "8 phrases. Any speed. Full video on Two Colleagues English." → point to full video
@@ -229,8 +229,9 @@
 ## Production Notes
 
 - **Voiceover:** Two distinct voices. James needs a natural-fast register for customer role-play AND a warm mentor register — cast one voice that can do both, or approve a slight pitch/pace treatment for "customer mode."
-- **Format fallback:** All scene directions above translate to still-image cards + pan/zoom + B-roll if the test clip fails (`../test-clip/test-clip-brief.md`). Dialogue, whiteboard cues, and recap timing are unchanged.
-- **Whiteboard:** One consistent whiteboard visual style across all episodes — it's a channel brand element, not per-video decoration.
+- **Format fallback:** All scene directions above translate to still-image cards + pan/zoom + B-roll if the test clip fails (`../test-clip/test-clip-brief.md`). Dialogue, recap timing, and the recap whiteboard are unchanged.
+- **Whiteboard:** Appears ONLY in the recap segment (handoff v2 rule). One consistent whiteboard visual style across all episodes — it's a channel brand element. Candidate tool: the RAMP studio's Whiteboard & Recap Studio (word-timed reveal, records to video, exports word-timed `.srt`).
+- **Captions:** Never burned in. Generate a word-timed `.srt` from the final voiceover and upload it to YouTube as an optional closed-caption track.
 - **Cross-language port:** This skeleton ports directly (e.g., "Dos Colegas Español") — swap names per the naming table and re-localize the 8 phrases; scenario logic unchanged.
 
 ## Title / Metadata Candidates (to validate with vidIQ before publish)
