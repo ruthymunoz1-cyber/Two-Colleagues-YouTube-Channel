@@ -1,7 +1,7 @@
 # Video 7 — Script Draft
 
 **Working title:** When Your English Freezes — Recovery Phrases for the Moment You Go Blank
-**Status:** DRAFT v2 — editor-passed, awaiting Ruthy review *(⚠️ runtime flag: dialogue runs ~14–16 min at checklist pacing against an ~8-min target — needs a scriptwriter compression pass; specifics in "Editor's notes to scriptwriter" below)*
+**Status:** DRAFT v3 — compressed per editor notes, awaiting editor re-check
 **Level:** B1–B2 — Maria's fluency stays at her post-launch baseline; the freeze is NOT a comprehension problem, and the script never writes her as incompetent. Freezing happens at every level — that's the point.
 **Characters:** Maria (server) · James (manager, mentor — role-plays the customer; also freezes for real, on camera, once)
 **Positioning note:** NOT a rehash of Video 1. V1 solves the customer's speed — their words coming at you too fast. This episode solves YOUR OWN words failing you mid-sentence. "Sorry, could you say that again a little slower?" exists here only as a one-line callback, never re-taught.
@@ -36,53 +36,53 @@
 
 **[FREEZE FRAME on Maria mid-blank.]**
 
-**MARIA (VO):** Nobody was rude to me. Nobody spoke fast. My own English just… stopped.
+**MARIA (VO):** Nobody was rude. Nobody spoke fast. My English just… stopped.
 
 **MARIA (VO, slower — TRANSLATABLE LINE 1):** And I felt stupid. One missing word, and I felt stupid.
 
-**MARIA (VO):** If that voice lives in your head too — this video is for you. There are phrases for this exact moment. Professionals use them every day. Let me show you.
+**MARIA (VO):** If that voice lives in your head too — stay. There are phrases for this exact moment.
 
 ---
 
-## PART 1 — THE FRAME (0:30–1:50)
+## PART 1 — THE FRAME (0:30–2:05)
 
 **[SCENE: End of night. Dining room empty, chairs still down. Maria wiping a table that is already clean. James pulls out the chair across from her and sits.]**
 
-**JAMES:** Table 6 tonight. You went somewhere for a second.
+**JAMES:** Table 6. You went somewhere for a second.
 
-**MARIA:** Capers. The word was capers. I've said it a hundred times. And it just — left. And you know what I did after? I gave table 6 to Priya and I hid in the side station.
+**MARIA:** Capers. I've said that word a hundred times, and it just left. So I gave the table to Priya and hid in the side station.
 
 **JAMES:** For one word.
 
 **MARIA:** It's not the word, James. It's the after. There's a voice, and it's in Spanish, and it says: *you sounded stupid out there.* You taught me what to do when THEY talk too fast. Nobody ever taught me what to do when *I* stop.
 
-**JAMES:** Because everybody sells "speak without fear," and nobody teaches the two seconds where the fear actually lives. Okay. First, the thing you need to know more than any phrase: the freeze is not your English failing. It's a brain thing, and every brain does it. I've spoken English my whole life, and my mind still hits a… *(snaps fingers, eyes up)* …what's the word I want… a roadblock. There.
+**JAMES:** The freeze is not your English failing — every brain does it. Mine still hits a… *(snaps fingers, eyes up)* …what's the word I want… a roadblock. There.
 
 **MARIA:** …You just did it.
 
-**JAMES:** I did it on purpose. Mostly. But you've heard me do it for real — Tuesday, in the staff meeting, I lost "inventory." Me. In my own restaurant. Did you think I was stupid?
+**JAMES:** On purpose. Mostly. But Tuesday, in my own staff meeting, I lost "inventory." Did you think I was stupid?
 
 **MARIA:** No. I didn't even notice.
 
-**JAMES:** Exactly. Because I didn't go silent — I made a sound, kept the moment alive, and the word came back. Native speakers freeze constantly. We just have a toolbox for it, and nobody ever hands it to you in a textbook. So tonight I'm handing it to you. Three moves: make a sound, say what you have, and find your way back.
+**JAMES:** Because I made a sound, not a silence — and the word came back. Native speakers freeze constantly — we just carry a toolbox. Tonight it's yours: make a sound, say what you have, find your way back.
 
-**MARIA:** And you'll be the customer.
+**MARIA:** And you're the customer.
 
-**JAMES:** I'll be the customer. Get the pad.
+**JAMES:** Get the pad.
 
 ---
 
-## PART 2 — SKILL 1: MAKE A SOUND, NOT A SILENCE (1:50–3:20)
+## PART 2 — SKILL 1: MAKE A SOUND, NOT A SILENCE (2:05–3:15)
 
 **[SCENE: James seated as the customer, menu open. Maria standing with her pad.]**
 
-**JAMES (as himself, aside):** Here's the secret of the freeze: the freeze isn't what scares the customer. The SILENCE is. A server who pauses with sound is thinking. A server who goes silent looks like the fire alarm's about to ring. So the first move is small: buy the time out loud. *"Give me one second — I want to get this exactly right."*
+**JAMES (as himself, aside):** The freeze doesn't scare a customer — the silence does. Sound says you're thinking. So buy time out loud: *"Give me one second — I want to get this exactly right."*
 
 *(KEY PHRASE 1 — spoken repetition)*
 
 **MARIA:** Give me one second — I want to get this exactly right.
 
-**JAMES:** Hear what that sentence does? You didn't confess a problem. You promised quality. Your freeze just became service. Now — sometimes one second isn't enough, and the whole sentence falls down. That's allowed. Name it and reset. Two phrases, they're a pair: *"Sorry — my mind just went blank."* Then: *"Let me start again."*
+**JAMES:** You promised quality — your freeze just became service. And when a whole sentence falls down, name it and reset — a pair native speakers use every day: *"Sorry — my mind just went blank. Let me start again."*
 
 *(KEY PHRASES 2 + 3 — spoken repetition)*
 
@@ -90,33 +90,29 @@
 
 **JAMES (as customer, easy):** Take your time, no rush.
 
-**JAMES (as himself):** That's the answer you'll get, by the way. Almost every time. "My mind went blank" is a NATIVE phrase — Americans say it in meetings, on dates, on television. When you say it, you don't sound like a learner. You sound like everyone.
+**MARIA:** So the phrase I was afraid to say… makes me sound normal.
 
-**MARIA:** So the phrase I was afraid to say… is the phrase that makes me sound normal.
-
-**JAMES:** Now you're getting it. One more sound for the toolbox — the one I used on you five minutes ago: *"What's the word I want…"* Say it slowly, look up, even snap your fingers. That's not a student searching. That's a fluent person mid-search — it's the most native noise in this whole episode.
+**JAMES:** One more — the sound I used on you earlier: *"What's the word I want…"* Eyes up, slow. A fluent person mid-search.
 
 *(KEY PHRASE 4 — spoken repetition)*
 
 **MARIA (eyes up, snaps her fingers):** What's the word I want…
 
-**JAMES (as himself):** There. You could freeze in front of the whole dining room with that and nobody would blink.
-
 ---
 
-## PART 3 — SKILL 2: SAY WHAT YOU HAVE (3:20–4:55)
+## PART 3 — SKILL 2: SAY WHAT YOU HAVE (3:15–4:35)
 
-**JAMES (as himself):** Move two. Sometimes the word doesn't come back — fine. Here's what the panic makes you forget: you lost ONE WORD. Not the meaning. The meaning is still in your head, so hand me the meaning. Start with: *"It's the one with…"* — and describe it. Simple words. Use your hands. Sell it to me without the word "capers."
+**JAMES (as himself):** Move two, for when the word doesn't come back. You lost one word, not the meaning — so hand me the meaning: *"It's the one with…"* Use your hands. Sell me the salmon without "capers."
 
 *(KEY PHRASE 5 — spoken repetition)*
 
-**MARIA:** It's the one with… the little green ones — salty, about this big *(fingertips)* — they come in the lemon sauce.
+**MARIA:** It's the one with… the little green ones — salty, about this big *(fingertips)* — in the lemon sauce.
 
 **JAMES (as customer):** Oh — capers?
 
 **MARIA:** Capers!
 
-**JAMES (as himself):** Look what happened. You froze, and the customer didn't watch you fail — he PLAYED. People love finishing a puzzle. Which brings me to the move you're going to hate before you love it. When you're stuck, you're allowed to just ask: *"How do you say…?"*
+**JAMES (as himself):** He didn't watch you fail — he played. Which brings me to the move you'll hate before you love it. When you're stuck, just ask: *"How do you say…?"*
 
 *(KEY PHRASE 6 — spoken repetition)*
 
@@ -126,37 +122,35 @@
 
 **MARIA:** See, that one hurts. Asking a customer for the word feels like showing him I can't do my job.
 
-**JAMES:** I know it does. Now watch his face when you ask. *(as the customer — leans in, delighted)* People light up, Maria. You handed him a tiny job and he loved it. For ten seconds he's not your judge — he's your teammate. Asking isn't defeat. Asking is what confident people do, because they know one word was never the job. The salmon is the job. You know the salmon.
+**JAMES:** I know. But watch him. *(as the customer — leans in, delighted)* People light up. You handed him a tiny puzzle and he loved it — he's your teammate, not your judge. The salmon is the job. You know the salmon.
 
 **MARIA:** I know everything about that salmon except one word.
 
-**JAMES:** And now you have three ways to serve it anyway.
-
 ---
 
-## PART 4 — SKILL 3: THE WAY BACK (4:55–6:10)
+## PART 4 — SKILL 3: THE WAY BACK (4:35–6:45)
 
-**JAMES (as himself):** Last move — the one that decides whether this costs you a word or costs you the whole night. Two halves. First, out loud: after the freeze, don't rebuild the sentence in your head like it never happened. Find your place with sound: *"Where was I? — Right."* And carry on.
+**JAMES (as himself):** Last move. Don't replay the freeze in your head — find your place out loud: *"Where was I? — Right."*
 
 *(KEY PHRASE 7 — spoken repetition)*
 
 **MARIA:** Where was I? — Right. The salmon.
 
-**JAMES:** Clean. Second half — and this one is yours to use or not, it's a choice, never a duty: *"I'm still learning English — thank you for your patience."*
+**JAMES:** Clean. One more — always a choice, never a duty: *"I'm still learning English — thank you for your patience."*
 
 *(KEY PHRASE 8 — spoken repetition)*
 
 **MARIA (quiet, eyes down):** I'm still learning English — thank you for your patience.
 
-**JAMES:** Again. Chin up this time. It's not an apology — it's information. And listen to the second half: "thank you for your patience." You're not asking permission. You're telling them, kindly, how to behave.
+**JAMES:** Again — chin up. Not an apology; information. You're telling them, kindly, how to behave.
 
 **MARIA (level, steady):** I'm still learning English. Thank you for your patience.
 
-**JAMES:** THAT one. Same words, different server. Now the half nobody can hear — the walk to the kitchen afterward. Tonight you gave away a table and hid in the side station. What was the voice saying?
+**JAMES:** THAT one. Same words, different server. Now the walk back to the kitchen — what was the voice saying?
 
 **MARIA:** *(beat)* That I sounded stupid. That I AM stupid. I know it's not true. I run my whole life in two languages. But in that moment, I believe it.
 
-**JAMES:** Then let's look at the moment. Can I tell you what I actually saw from the bar? A server lost a word. That's all that happened. The customer forgot it before his drink arrived — you're the only person in the building still carrying it. And Maria — the server who handled table 12 last Friday? Fast customers, angry customers, the kitchen on a bad night? Same person standing here. One frozen sentence doesn't erase one shift of that. It can't. It's one sentence.
+**JAMES:** Here's what I saw from the bar: a server lost a word. That's all. The customer forgot it before his drink arrived — you're the only person in the building still carrying it. And the server who handled table 12 last Friday? Same person standing here.
 
 **MARIA:** The voice doesn't do math.
 
@@ -166,11 +160,11 @@
 
 ---
 
-## PART 5 — THE PAYOFF (6:10–7:05)
+## PART 5 — THE PAYOFF (6:45–7:55)
 
 **[SCENE: Return to the cold-open moment. Next service. Same four-top, same specials. Same pleasant customer voice = James.]**
 
-**MARIA (VO):** Same table. Same salmon. And I want to be honest with you, because nobody selling "English without fear" ever is: the freeze came back.
+**MARIA (VO):** Same table. Same salmon. Nobody selling "English without fear" tells you this: the freeze came back.
 
 **MARIA (smooth):** Tonight we have a grilled salmon — it comes with a lemon sauce, with the—
 
@@ -180,55 +174,55 @@
 
 **JAMES (as customer):** Capers?
 
-**MARIA:** Capers — thank you! Lemon-caper sauce. It's the best thing on the menu tonight.
+**MARIA:** Capers — thank you! Lemon-caper sauce.
 
-**JAMES (as customer, chuckling):** Well, now I have to order it. I helped.
+**JAMES (as customer, chuckling):** Now I have to order it. I helped.
 
-**MARIA:** Where was I? — Right. It comes with roasted potatoes or the seasonal salad — which would you like?
+**MARIA:** Where was I? — Right. Roasted potatoes or seasonal salad — which would you like?
 
-**MARIA (VO):** I still froze. Same word, same table. But this time the silence didn't swallow me — I had somewhere to put my feet.
+**MARIA (VO):** I still froze. But the silence didn't swallow me — I had somewhere to put my feet.
 
 **MARIA (VO — TRANSLATABLE LINE 2):** And the voice that says *you're stupid*? It never came. It has nothing to say when you keep talking.
 
 ---
 
-## RECAP SEGMENT — ANIMATED WHITEBOARD QUIZ (7:05–8:10)
+## RECAP SEGMENT — ANIMATED WHITEBOARD QUIZ (7:55–9:20)
 
 **[REQUIRED SEGMENT — the ONLY portion of the episode where the whiteboard appears. Maria and James at the counter, whiteboard fills the frame. Q → 3-SECOND PAUSE → A. Questions write themselves as asked; answers write in after the pause.]**
 
-**JAMES:** Recap. Answer out loud, wherever you are — especially if there's nobody around to hear you freeze.
+**JAMES:** Recap — answer out loud, even if nobody's listening.
 
-**JAMES:** Question one: mid-sentence, the word disappears. What's the first rule?
+**JAMES:** Question one: the word disappears mid-sentence. First rule?
 **[PAUSE — 3s]**
-**MARIA:** Make a sound, not a silence. "Give me one second — I want to get this exactly right." Or think out loud: "What's the word I want…"
+**MARIA:** Make a sound, not a silence. "Give me one second — I want to get this exactly right." Or: "What's the word I want…"
 
-**JAMES:** Question two: the whole sentence falls down. Two phrases — the pair?
+**JAMES:** Question two: the whole sentence falls down. The pair?
 **[PAUSE — 3s]**
 **MARIA:** "Sorry — my mind just went blank." Then: "Let me start again."
 
-**JAMES:** Question three: the word won't come back at all. What do you hand the customer instead?
+**JAMES:** Question three: the word won't come back. What do you hand them?
 **[PAUSE — 3s]**
-**MARIA:** The meaning. "It's the one with…" — simple words, use your hands. Or just ask: "How do you say…?" They love to help.
+**MARIA:** The meaning. "It's the one with…" — or just ask: "How do you say…?"
 
-**JAMES:** Question four: the freeze is over. How do you find your place?
+**JAMES:** Question four: the freeze ends. How do you find your place?
 **[PAUSE — 3s]**
-**MARIA:** Out loud: "Where was I? — Right." And keep going. Don't replay it.
+**MARIA:** Out loud: "Where was I? — Right." And keep going.
 
 **JAMES:** Last one: "I'm still learning English — thank you for your patience." Apology or information?
 **[PAUSE — 3s]**
-**MARIA:** Information. Chin up, and it's a choice — I never owe it to anyone. And one frozen sentence erases… nothing.
+**MARIA:** Information. Chin up — and it's my choice. And one frozen sentence erases… nothing.
 
 **[WHITEBOARD: all 8 phrases visible as the completed board]**
 
 ---
 
-## OUTRO + CTA (8:10–8:40)
+## OUTRO + CTA (9:20–9:55)
 
-**MARIA:** Your English is going to freeze next shift. That's not a maybe — it comes with a second language, and it comes with a first one too. So when it happens: make a sound. Then tell us in the comments which phrase carried you — we read every single one.
+**MARIA:** Your English will freeze next shift. That's not a maybe — it comes with a second language, and it comes with a first one too. When it happens, make a sound. And tell us which phrase carried you — we read every comment.
 
 **JAMES:** Next episode: money. Tips, tip-outs, splitting the bill — the questions everyone thinks about and nobody asks out loud.
 
-**MARIA:** Subscribe so you don't miss it. We're Two Colleagues —
+**MARIA:** Subscribe. We're Two Colleagues —
 
 **JAMES:** — see you at work.
 
@@ -293,3 +287,16 @@
 - That's ~−300 by line trims alone; the remaining ~−250 has to come from compressing whole teaching exchanges (e.g., Part 2 teaches three phrases with full coaching cycles each — two can share one demo/debrief). Your structural call, not mine.
 
 *(Minor, roll into the same pass: "Americans say it in meetings, on dates, on television" — the triple list reads written; two items land more spoken.)*
+
+## Scriptwriter revision notes (v3 compression pass, 2026-07-16)
+
+Dialogue cut from 1,625 to 1,098 (speaker-line tokenizer; the editor's counter read the same v2 text ~3% lower, so this sits safely under the 1,100 ceiling) ≈ 9.2–10.5 min at 105–120 wpm. Scene-header timings recomputed at real channel pacing plus the designed pauses; episode now ends ~9:55. What came out, per part:
+
+- **Cold open (71→55):** VO 1 and VO 3 tightened ("this video is for you… Let me show you" → "stay"); hook now fits 30s at real pacing. Translatable line 1 verbatim.
+- **Part 1 (274→177):** cut "Because everybody sells 'speak without fear'…" (duplicated positioning, per editor); roadblock speech more than halved — the staged on-camera freeze itself untouched; Tuesday-"inventory" story compressed but still offhand and still carrying the reframe through the "Did you think I was stupid?" exchange; toolbox speech halved (the three-move menu survives); Maria's capers speech trimmed. The "voice in Spanish" confession, with its V1 callback, untouched.
+- **Part 2 (277→137, structural):** three coaching cycles collapsed toward one — phrase 1's debrief and the pair's setup share one James speech; "secret of the freeze" down to two sentences; the "native phrase" debrief CUT and its claim folded into the pair's setup ("a pair native speakers use every day") — this also removes the flagged "meetings, on dates, on television" triple-list AI tell; phrase-4 setup trimmed; James's post-repeat validation line cut. All four phrases still model → repeat, and the customer's "Take your time, no rush" beat stays as the live proof.
+- **Part 3 (242→160):** "Move two" opener loses the panic explanation, keeps "you lost one word, not the meaning"; "Look what happened" debrief merged into the phrase-6 segue; "watch his face" speech loses "Asking isn't defeat…" and "for ten seconds," absorbs the puzzle image; James's closing button cut — Maria's salmon reply now ends the part. The "asking hurts" exchange intact.
+- **Part 4 (349→235):** phrase 7/8 framing tightened (both phrase-8 takes and the chin-up direction kept); "THAT one" speech loses the side-station restatement (established in Part 1); bar speech loses "One frozen sentence doesn't erase one shift of that…" (restated by recap Q5, per editor) and the fast-customers enumeration — the table-12 callback and "you're the only person in the building still carrying it" stay word-for-word. The bolded protected line and the hold after it are untouched.
+- **Part 5 (151→124):** VO and tail trims only ("I want to be honest with you…" compressed; "Same word, same table" de-duplicated; "best thing on the menu" cut — the customer's "I helped" joke stands on its own). Double-freeze structure, all five returning phrases, and translatable line 2 (verbatim) untouched.
+- **Recap (177→138):** stems and answer tails trimmed; all 8 phrases still covered (Q1: 1+4 · Q2: 2+3 · Q3: 5+6 · Q4: 7 · Q5: 8), Q → 3s pause → A rhythm unchanged; Q5's "one frozen sentence erases… nothing" kept — it now carries the beat cut from Part 4's bar speech.
+- **Outro (84→72):** send-off tightened; the editor's level fix ("it comes with…") and the ep-8 money tease unchanged.
