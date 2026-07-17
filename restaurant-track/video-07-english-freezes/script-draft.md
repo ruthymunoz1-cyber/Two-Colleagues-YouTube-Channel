@@ -1,7 +1,7 @@
 # Video 7 — Script Draft
 
 **Working title:** When Your English Freezes — Recovery Phrases for the Moment You Go Blank
-**Status:** DRAFT v3 — compressed per editor notes, awaiting editor re-check
+**Status:** DRAFT v3 — editor-passed, awaiting Ruthy review
 **Level:** B1–B2 — Maria's fluency stays at her post-launch baseline; the freeze is NOT a comprehension problem, and the script never writes her as incompetent. Freezing happens at every level — that's the point.
 **Characters:** Maria (server) · James (manager, mentor — role-plays the customer; also freezes for real, on camera, once)
 **Positioning note:** NOT a rehash of Video 1. V1 solves the customer's speed — their words coming at you too fast. This episode solves YOUR OWN words failing you mid-sentence. "Sorry, could you say that again a little slower?" exists here only as a one-line callback, never re-taught.
@@ -287,6 +287,16 @@
 - That's ~−300 by line trims alone; the remaining ~−250 has to come from compressing whole teaching exchanges (e.g., Part 2 teaches three phrases with full coaching cycles each — two can share one demo/debrief). Your structural call, not mine.
 
 *(Minor, roll into the same pass: "Americans say it in meetings, on dates, on television" — the triple list reads written; two items land more spoken.)*
+
+## Editor's changes (v3 re-check, 2026-07-17)
+
+Scoped re-check of the compression pass only — no line edits were needed.
+
+1. **Runtime — PASS:** 1,052 dialogue words on the editor's counter (scriptwriter's tokenizer: 1,098; the ~4% delta matches the v2 counter gap). Under the 1,100 ceiling. Speech ≈ 8.8–10.0 min at 105–120 wpm; header timings ending 9:55 are honest at channel pacing. Note for VO direction: this sits at the ceiling — delivery should hold near the brisk end (115–120 wpm), since the episode's silence design spends its slack on the designed beats, not slower speech.
+2. **Judgment call — Part 3 closing button cut: ACCEPTED.** Ending on Maria's "except one word" line is the better landing; restoring James's button would reintroduce the every-scene-ends-on-a-bow tell flagged at v2. Part 4's "Last move" segue resolves cleanly to Part 1's three-move menu.
+3. **Judgment call — Part 5 "best thing on the menu tonight" tail cut: ACCEPTED.** "Now I have to order it. I helped." carries the teammate payoff alone; the tail was a duplicate beat, and the faster hand-off into the live "Where was I? — Right." is the stronger rhythm.
+4. **Seam check (Parts 1–4): clean.** All post-compression segues have antecedents ("Move two"/"Last move" → Part 1's menu; "the sound I used on you earlier" → the roadblock; "what was the voice saying?" → the Part 1 confession). Maria's "And you're the customer" now anticipates rather than responds, but reads as series-format familiarity, not a gap — left as is.
+5. **Protections verified intact:** all 8 phrases modeled + repeated; recap covers all 8 with phrase 4 in Q1; both protected beats verbatim with the hold preserved; all three scripted silences; the table-12 V6 callback; both TRANSLATABLE VO lines verbatim.
 
 ## Scriptwriter revision notes (v3 compression pass, 2026-07-16)
 
