@@ -1,14 +1,20 @@
 #!/usr/bin/env python3
 """Build downloadable, paste-ready Character Sheet and Voice Casting docs
 for Maria & James from restaurant-track/characters/character-lab-entries.md.
-Each field is its own short paragraph so it's easy to copy one line at a
-time into the RAMP studio's Character Lab / Voice Studio fields.
+
+Character Sheet fields match the RAMP studio's ACTUAL Character Lab form,
+verified against the studio's own source (js/app.js), not guessed:
+Name, Age, Gender/identity, Ethnicity/ancestry, Skin tone (Monk swatch),
+Undertone (single-select dropdown), Hair texture (single-select dropdown),
+Hair style (dropdown - its "custom (type below)" option is a studio bug,
+no text box appears), Hair color, Eyes, Face details, Build, Signature
+wardrobe, Vibe/personality, Reference photo. There is no free-text "paste
+one big description" field anywhere in the form.
 """
 from pathlib import Path
 
 from docx import Document
-from docx.shared import Pt
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.shared import Pt, RGBColor
 
 OUT_DIR = Path("/home/user/Two-Colleagues-YouTube-Channel/restaurant-track/characters")
 
@@ -17,141 +23,150 @@ def base_doc(title):
     doc = Document()
     doc.styles["Normal"].font.name = "Calibri"
     doc.styles["Normal"].font.size = Pt(11)
-    h = doc.add_heading(title, level=1)
+    doc.add_heading(title, level=1)
     return doc
 
 
-def field(doc, label, value):
+def field(doc, label, value, note=None):
     p = doc.add_paragraph()
     r = p.add_run(f"{label}: ")
     r.bold = True
     p.add_run(value)
+    if note:
+        p2 = doc.add_paragraph()
+        r2 = p2.add_run(note)
+        r2.italic = True
+        r2.font.size = Pt(9)
+        r2.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
 
 
-def block_quote(doc, heading, text):
+def warning_block(doc, heading, text):
     doc.add_heading(heading, level=3)
     p = doc.add_paragraph(text)
-    p.paragraph_format.space_after = Pt(12)
+    for run in p.runs:
+        run.font.color.rgb = RGBColor(0xB0, 0x3A, 0x2E)
+    return p
 
 
 # ---------------- Character Sheet doc ----------------
 doc = base_doc("Character Sheet — Maria & James")
 doc.add_paragraph(
-    "Paste-ready field values for the RAMP studio Character Lab. "
-    "Copy each field into its matching Lab input, or use the single "
-    "consolidated paragraph at the end of each character's section if "
-    "the Lab takes one free-text description instead."
+    "Field values for the RAMP studio's actual Character Lab form (verified against the "
+    "studio's source code, not guessed). Enter one value per field, in the order shown."
+)
+
+warning_block(
+    doc,
+    "Before you start — two things about the real form",
+    "1) Undertone and Hair texture are single-select dropdowns — pick exactly ONE value from "
+    "each, not a combination. 2) The Hair Style dropdown's \"custom (type below)\" option is a "
+    "studio bug: no text box actually appears. None of its presets (all natural/textured "
+    "Black hairstyling terms — afro, braids, locs, twists, bantu knots, silk press) fit a low "
+    "bun or a short professional cut anyway. Workaround used below: pick any preset for that "
+    "dropdown (it won't matter) and the REAL hairstyle instruction is written into the Face "
+    "details field instead, which is free text."
 )
 
 doc.add_heading("Maria — Restaurant Server (learner proxy)", level=2)
-for label, value in [
-    ("Name", "Maria"),
-    ("Age", "Late 20s (27)"),
-    ("Race / ethnicity", "Latina — Mexican heritage"),
-    ("Skin tone (Monk scale 1-10)", "5 — medium olive (typical Latina tone)"),
-    ("Undertone", "Olive / warm-neutral"),
-    ("Hair texture", "2C-3A (defined waves / loose curls), dark brown"),
-    ("Hair style", "Practical low bun, a few loose strands at the temples (work-day realism)"),
-    ("Eyes", "Dark brown, alert, warm"),
-    ("Face", "Round-oval, soft features, expressive brows, smile lines"),
-    ("Wardrobe (locked, every scene)",
-     "Fitted black polo, black bistro server apron (waist-length) with order pad and pen in "
+for label, value, note in [
+    ("Name", "Maria", None),
+    ("Age", "Late 20s (27)", None),
+    ("Gender / identity", "woman", None),
+    ("Ethnicity / ancestry", "Latina — Mexican heritage", None),
+    ("Skin tone", "Click swatch 5 on the Monk Skin Tone row", None),
+    ("Undertone (dropdown)", "olive", "Pick this one value only — do not also type \"warm-neutral.\""),
+    ("Hair texture (dropdown)", "Loose curls (3A)",
+     "Closest literal match to \"defined waves / loose curls.\" If a render looks too tightly "
+     "curled, switch this one dropdown value to \"Wavy (2A–2C)\" and regenerate."),
+    ("Hair style (dropdown)", "long layers",
+     "Doesn't matter which preset — see the bug note above. The real hairstyle is in Face "
+     "details below."),
+    ("Hair color", "dark brown", None),
+    ("Eyes", "dark brown, alert, warm", None),
+    ("Face details", "Round-oval face, soft features, expressive brows, smile lines. Hair worn in "
+                      "a practical low bun with a few loose strands at the temples (work-day "
+                      "realism).",
+     "This field is carrying the real hairstyle instruction — see bug note above."),
+    ("Build", "Average height, average build — on-her-feet-all-shift posture", None),
+    ("Signature wardrobe",
+     "Fitted black polo, black bistro server apron (waist-length) with order pad and pen in the "
      "pocket, small name tag reading MARIA on the right chest, black slacks, comfortable black "
-     "work shoes, small stud earrings only"),
-    ("Vibe", "Warm, hardworking, quietly determined — confidence visibly grows across episodes"),
+     "work shoes, small stud earrings only", None),
+    ("Vibe / personality",
+     "Warm, hardworking, quietly determined — confidence visibly grows across episodes", None),
+    ("Reference photo", "None yet — leave blank. Generate from these fields, then the approved "
+                         "portrait becomes the reference for future uploads.", None),
 ]:
-    field(doc, label, value)
+    field(doc, label, value, note)
 
-block_quote(
-    doc,
-    "Consolidated description (single paste)",
-    "Maria: an adult Latina woman in her late 20s, medium olive skin tone (Monk scale 5) with a "
-    "warm-neutral undertone, dark brown hair with a 2C-3A wave/curl texture worn in a practical "
-    "low bun with a few loose strands at the temples, dark brown alert warm eyes, a round-oval "
-    "face with soft features and smile lines. Wardrobe: fitted black polo, black waist-length "
-    "bistro server apron with an order pad and pen in the pocket, a small name tag reading MARIA "
-    "on the right chest, black slacks, black work shoes, small stud earrings only. Vibe: warm, "
-    "hardworking, quietly determined."
-)
-
-block_quote(
+warning_block(
     doc,
     "Lighting note",
     "At Monk 5, the Lab's deep-skin exposure guidance will NOT auto-apply (it only triggers at "
     "deeper tones). Watch for the opposite drift: AI models tend to wash olive skin toward "
     "generic pale pink. If a portrait comes out lighter or pinker than intended, add this to the "
-    "prompt and regenerate before approving: \"medium olive skin tone, warm-neutral undertone, "
-    "no pink shift.\""
+    "Face details field and regenerate before approving: \"medium olive skin tone, olive "
+    "undertone, no pink shift.\""
 )
 
 doc.add_heading("James — Restaurant Manager (mentor)", level=2)
-for label, value in [
-    ("Name", "James"),
-    ("Age", "Mid 40s (45)"),
-    ("Race / ethnicity", "White (US)"),
-    ("Skin tone (Monk scale 1-10)", "3 — light-medium"),
-    ("Undertone", "Neutral"),
-    ("Hair texture", "1B (straight, slight body), dark brown with clear graying at the temples"),
-    ("Hair style",
-     "Short, neat, professional. Graying temples are a locked identity feature — do not let "
-     "generations \"youthen\" him"),
-    ("Eyes", "Gray-blue, steady, crow's feet when he smiles"),
-    ("Face",
-     "Rectangular, lightly lined (forehead and smile lines), friendly lived-in face. Clean-shaven "
-     "or light stubble — pick ONE at turnaround time and lock it"),
-    ("Wardrobe (locked, every scene)",
-     "Dark charcoal button-down shirt with sleeves rolled to the forearm, manager badge on a "
-     "black lanyard, dark jeans-cut slacks, brown leather belt, wristwatch"),
-    ("Vibe", "Steady, encouraging, dry humor — the calmest person in every room"),
+for label, value, note in [
+    ("Name", "James", None),
+    ("Age", "Mid 40s (45)", None),
+    ("Gender / identity", "man", None),
+    ("Ethnicity / ancestry", "White (US)", None),
+    ("Skin tone", "Click swatch 3 on the Monk Skin Tone row", None),
+    ("Undertone (dropdown)", "neutral", None),
+    ("Hair texture (dropdown)", "Straight (1A–1C)",
+     "Closest literal match to \"straight, slight body.\""),
+    ("Hair style (dropdown)", "long layers",
+     "Doesn't matter which preset — see the bug note above. The real hairstyle is in Face "
+     "details below."),
+    ("Hair color", "dark brown with graying at the temples", None),
+    ("Eyes", "gray-blue, steady, crow's feet when he smiles", None),
+    ("Face details",
+     "Rectangular, lightly lined face (forehead and smile lines), friendly lived-in look, "
+     "clean-shaven. Hair short, neat, professional, with graying temples — this is a locked "
+     "identity feature; do not let generations \"youthen\" him or remove the gray.",
+     "This field is carrying the real hairstyle instruction — see bug note above."),
+    ("Build", "Tall (around 6'0\"), broad-shouldered, average build", None),
+    ("Signature wardrobe",
+     "Dark charcoal button-down with sleeves rolled to the forearm, manager badge on a black "
+     "lanyard, dark jeans-cut slacks, brown leather belt, wristwatch", None),
+    ("Vibe / personality", "Steady, encouraging, dry humor — the calmest person in every room",
+     None),
+    ("Reference photo", "None yet — leave blank. Generate from these fields, then the approved "
+                         "portrait becomes the reference for future uploads.", None),
 ]:
-    field(doc, label, value)
-
-block_quote(
-    doc,
-    "Consolidated description (single paste)",
-    "James: an adult white man in his mid 40s, light-medium skin tone (Monk scale 3) with a "
-    "neutral undertone, straight dark brown hair (1B texture) with clear graying at the temples, "
-    "worn short and neat and professional — the graying temples must never be youthened away. "
-    "Gray-blue steady eyes with crow's feet when he smiles. A rectangular, lightly lined face "
-    "(forehead and smile lines), friendly and lived-in, clean-shaven. Wardrobe: dark charcoal "
-    "button-down shirt with sleeves rolled to the forearm, a manager badge on a black lanyard, "
-    "dark jeans-cut slacks, a brown leather belt, a wristwatch. Vibe: steady, encouraging, dry "
-    "humor, the calmest person in every room."
-)
+    field(doc, label, value, note)
 
 doc.add_heading("Turnaround Sheet Prompt (both characters)", level=2)
 doc.add_paragraph(
-    "Use the Lab's standard turnaround-sheet template with each character's consolidated "
-    "description above substituted in for [CHARACTER DESCRIPTION]:"
-)
-block_quote(
-    doc,
-    "Template",
-    "Character reference turnaround sheet on a single image: the EXACT same character shown "
-    "full-body from five angles side by side — front view, three-quarter left view, left profile, "
-    "back view, three-quarter right view — plus a chest-up front close-up and a side-face "
-    "close-up. [CHARACTER DESCRIPTION]. Identical face, identical hairstyle, identical outfit and "
-    "colors in every view. Neutral relaxed standing pose, arms at sides, plain light-grey "
-    "seamless studio background, soft even professional lighting, photorealistic, highly "
-    "detailed, no text, no labels, no props."
+    "Once each character is created and its portrait approved, use the Lab's turnaround-sheet "
+    "generator (it compiles the fields above automatically into the consistency token). No "
+    "manual prompt entry needed for this step — the Lab does it from the saved character."
 )
 
 doc.add_heading("Combined Two-Character Scene String", level=2)
-doc.add_paragraph("Paste this into any scene prompt that features both characters together:")
-block_quote(
-    doc,
-    "Scene string",
+doc.add_paragraph(
+    "For scene prompts featuring both characters together (outside the Lab, e.g. in the Image "
+    "or Video Studio's scene prompt field), paste this:"
+)
+p = doc.add_paragraph(
     "Maria: adult woman, late 20s, medium olive skin, dark hair in a low bun, brown eyes, black "
     "server apron over black polo, name tag. James: adult man, 40s, light-medium skin, short dark "
     "hair graying at the temples, dark button-down shirt with rolled sleeves, manager badge on "
     "lanyard."
 )
+p.paragraph_format.space_after = Pt(12)
 
 doc.add_heading("Entry Checklist", level=2)
 for item in [
-    "Enter Maria in Character Lab -> generate portrait -> approve -> pin seed",
-    "Enter James in Character Lab -> generate portrait -> approve -> pin seed",
+    "Enter Maria in Character Lab (all fields above) -> Create character",
+    "Enter James in Character Lab (all fields above) -> Create character",
+    "Generate + approve each portrait; regenerate with the pink-shift fix if Maria's tone drifts",
     "Generate both turnaround sheets -> approve -> store",
+    "Pin each character's seed once approved",
     "Run the test clip (menu hand-off) using both sheets -> score against the brief",
     "Save \"restaurant\" location set in Location Scout",
 ]:
@@ -161,11 +176,11 @@ doc.save(OUT_DIR / "RAMP_CharacterSheet_MariaJames.docx")
 print("wrote RAMP_CharacterSheet_MariaJames.docx")
 
 
-# ---------------- Voice Casting doc ----------------
+# ---------------- Voice Casting doc (unchanged structure - no reported issues) ----------------
 doc2 = base_doc("Voice Casting — Maria & James")
 doc2.add_paragraph(
-    "Paste-ready voice direction for the RAMP studio Voice Studio. James needs one voice "
-    "actor covering three directed registers — never cast a third voice."
+    "Voice direction for the RAMP studio Voice Studio. James needs one voice actor covering "
+    "three directed registers — never cast a third voice."
 )
 
 doc2.add_heading("Maria — Server", level=2)
@@ -181,9 +196,8 @@ for label, value in [
 ]:
     field(doc2, label, value)
 
-block_quote(
-    doc2,
-    "Casting search prompt",
+doc2.add_heading("Casting search prompt", level=3)
+doc2.add_paragraph(
     "Search for: a warm, natural female voice in her late 20s with a light, authentic Spanish "
     "accent, medium pitch, capable of a careful/thoughtful early-series delivery that grows more "
     "fluid and confident, plus a hoarse-but-intelligible \"sick\" variant for one episode."
@@ -203,9 +217,8 @@ for label, value in [
 ]:
     field(doc2, label, value)
 
-block_quote(
-    doc2,
-    "Casting search prompt",
+doc2.add_heading("Casting search prompt", level=3)
+doc2.add_paragraph(
     "Search for: a male voice in his mid 40s, lower-medium pitch, warm and unhurried authority as "
     "a default mentor register, with demonstrated range to also deliver a fast, heated (but not "
     "cartoonish) customer/chef role-play register and a calm, brief, early-morning phone register."
