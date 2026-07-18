@@ -25,7 +25,7 @@ Confirmed exact field list, in order, from the live app: Name · Age · Gender/i
 | Skin tone (Monk scale, click swatch) | **5** |
 | Undertone (dropdown — pick ONE) | **olive** |
 | Hair texture (dropdown — pick ONE) | **Loose curls (3A)** — closest literal match to "defined waves/loose curls." If the render looks too curly, fall back to "Wavy (2A–2C)." |
-| Hair style (dropdown — doesn't matter, see bug note above) | pick "long layers" (least likely to visually fight the real style below) |
+| Hair style (dropdown) | **protective updo** — CORRECTED from an earlier "long layers" pick. Confirmed live in Maria's first compiled token: "long layers" produced a literal contradiction against the Face details bun instruction ("...hair styled as long layers... Hair worn in a practical low bun...") — the compiler stitches both into one sentence, so they visibly fight. "Protective updo" is the only preset whose literal meaning (hair pulled up) agrees with "low bun" instead. |
 | Hair color (free text) | dark brown |
 | Eyes (free text) | dark brown, alert, warm |
 | Face details (free text) | **Round-oval face, soft features, expressive brows, smile lines. Hair worn in a practical low bun with a few loose strands at the temples (work-day realism).** *(the actual hairstyle instruction lives here, per the bug workaround)* |
@@ -57,7 +57,7 @@ Confirmed exact field list, in order, from the live app: Name · Age · Gender/i
 | Skin tone (Monk scale, click swatch) | **3** |
 | Undertone (dropdown — pick ONE) | **neutral** |
 | Hair texture (dropdown — pick ONE) | **Straight (1A–1C)** — closest literal match to "straight, slight body" |
-| Hair style (dropdown — doesn't matter, see bug note above) | pick "long layers" (least likely to visually fight the real style below) |
+| Hair style (dropdown) | try "long layers" first; if the length reads wrong against "short, neat, professional" in Face details, switch to "short natural afro" instead — see Maria's confirmed contradiction bug above. No preset actually fits a short professional cut; watch his Master portrait carefully before locking. |
 | Hair color (free text) | dark brown with graying at the temples |
 | Eyes (free text) | gray-blue, steady, crow's feet when he smiles |
 | Face details (free text) | **Rectangular, lightly lined face (forehead and smile lines), friendly lived-in look, clean-shaven. Hair short, neat, professional, with graying temples — this is a locked identity feature; do not let generations "youthen" him or remove the gray.** *(the actual hairstyle instruction lives here, per the bug workaround)* |
@@ -80,7 +80,8 @@ Confirmed exact field list, in order, from the live app: Name · Age · Gender/i
 
 ## Shared production settings
 
-- **Seeds:** pin each character's seed in the Lab the moment a portrait is approved; record here — Maria: `______` · James: `______`
+- **Seeds:** auto-assigned by the Lab on character creation (no separate "pin" button observed — creation itself appears to lock it). Record here — Maria: `482784` (assigned 2026-07-18, hair style field being corrected before portrait generation) · James: `______`
+- **Workflow order confirmed from the live app:** create character → generate **Master portrait** (single image, cheap to redo) → check skin tone + hairstyle → only then **Generate character sheet (all angles)** (the real turnaround reference) → approve/store. Don't jump straight to the full sheet — the master portrait is the cheap checkpoint.
 - **Turnaround sheets (the consistency anchor):** generate for BOTH characters before any scene generation — full body ×5 angles + face close-ups, identical wardrobe. Every scene generation must reference the sheet, not just the text token. This is the direct mitigation for the detached-limbs failure in the risk flag.
 - **Two-shot rule:** scenes with both characters use BOTH turnaround sheets as references, and physical-object interactions (menu/plate hand-offs) go through the test-clip gate first (`../test-clip/test-clip-brief.md`).
 - **Setting (Location Scout):** build one reusable "warm casual American restaurant" location set — dining floor, service counter/pass, bar corner, back-of-house station, and Maria's small apartment (Video 4). Save as Settings so every episode pulls identical environments.

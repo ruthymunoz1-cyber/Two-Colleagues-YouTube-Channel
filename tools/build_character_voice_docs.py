@@ -78,9 +78,12 @@ for label, value, note in [
     ("Hair texture (dropdown)", "Loose curls (3A)",
      "Closest literal match to \"defined waves / loose curls.\" If a render looks too tightly "
      "curled, switch this one dropdown value to \"Wavy (2A–2C)\" and regenerate."),
-    ("Hair style (dropdown)", "long layers",
-     "Doesn't matter which preset — see the bug note above. The real hairstyle is in Face "
-     "details below."),
+    ("Hair style (dropdown)", "protective updo",
+     "CORRECTED from an earlier \"long layers\" pick: confirmed live in Maria's first compiled "
+     "token that \"long layers\" produces a literal contradiction against the Face details bun "
+     "instruction (the compiler stitches both into one sentence, so they visibly fight). "
+     "\"Protective updo\" is the only preset whose literal meaning (hair pulled up) agrees with "
+     "\"low bun\" instead of fighting it."),
     ("Hair color", "dark brown", None),
     ("Eyes", "dark brown, alert, warm", None),
     ("Face details", "Round-oval face, soft features, expressive brows, smile lines. Hair worn in "
@@ -120,8 +123,10 @@ for label, value, note in [
     ("Hair texture (dropdown)", "Straight (1A–1C)",
      "Closest literal match to \"straight, slight body.\""),
     ("Hair style (dropdown)", "long layers",
-     "Doesn't matter which preset — see the bug note above. The real hairstyle is in Face "
-     "details below."),
+     "Try this first; if the length reads wrong against \"short, neat, professional\" in Face "
+     "details, switch to \"short natural afro\" instead — see Maria's confirmed contradiction "
+     "bug above. No preset actually fits a short professional cut; check his Master portrait "
+     "carefully before locking."),
     ("Hair color", "dark brown with graying at the temples", None),
     ("Eyes", "gray-blue, steady, crow's feet when he smiles", None),
     ("Face details",
@@ -140,11 +145,14 @@ for label, value, note in [
 ]:
     field(doc, label, value, note)
 
-doc.add_heading("Turnaround Sheet Prompt (both characters)", level=2)
+doc.add_heading("Confirmed Workflow Order (from the live app)", level=2)
 doc.add_paragraph(
-    "Once each character is created and its portrait approved, use the Lab's turnaround-sheet "
-    "generator (it compiles the fields above automatically into the consistency token). No "
-    "manual prompt entry needed for this step — the Lab does it from the saved character."
+    "1) Create character. 2) Hit \"Master portrait\" first — one image, cheap to redo. Check "
+    "the skin tone (watch for pink drift on Maria) and confirm the hairstyle reads correctly "
+    "before spending on the full sheet. 3) Only once that looks right, hit \"Generate character "
+    "sheet (all angles)\" — that's the real multi-angle turnaround reference everything else "
+    "anchors to. 4) Approve and store. Skip \"Create a language/culture variant\" for now — "
+    "that's the Spanish/French track for Month 3+."
 )
 
 doc.add_heading("Combined Two-Character Scene String", level=2)
