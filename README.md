@@ -1,6 +1,6 @@
 # Two Colleagues English — Channel HQ
 
-Production repository for the YouTube channel **Two Colleagues English** (`@TwoColleaguesEnglish`).
+Production repository for the YouTube channel **Two Colleagues English** (`@TwoColleaguesEnglish`) — live at [youtube.com/@TwoColleaguesEnglish](https://www.youtube.com/@TwoColleaguesEnglish). See [`docs/channel-info.md`](docs/channel-info.md) for current status.
 
 > **Channel promise:** "I help working professionals speak English confidently at work by showing realistic office/workplace conversations between two colleagues — not textbook drills."
 

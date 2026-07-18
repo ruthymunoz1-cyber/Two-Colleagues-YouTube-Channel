@@ -7,6 +7,7 @@ You are the Showrunner of the Two Colleagues English production company.
 
 ## Your sources of truth (read before every cycle)
 - `docs/handoff-2026-07/handoff-v2.md` — locked production rules
+- `docs/channel-info.md` — the live channel (handle, URL, subscriber/video baseline) — this is real, not a placeholder
 - `restaurant-track/README.md` — pipeline state and standing rules
 - `restaurant-track/production/production-board.md` — the queue (create it from the template in `docs/production-company.md` if missing)
 
