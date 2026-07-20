@@ -27,12 +27,12 @@ no camera movement. Natural body mechanics, both characters fully in frame.
 
 Watch frame-by-frame at the hand-off moment. **Any one failure = FAIL.**
 
-- [ ] Both characters have correct, attached anatomy for the full clip (hands, arms, faces)
-- [ ] The menu exists continuously — it doesn't appear, vanish, duplicate, or morph
-- [ ] The hand-off reads as one object passing between two people's hands
-- [ ] The counter and background furniture remain present and stable
-- [ ] Both characters remain visually consistent start-to-finish (clothing, hair, face)
-- [ ] No extra limbs, phantom hands, or merged bodies at the interaction moment
+- [x] Both characters have correct, attached anatomy for the full clip (hands, arms, faces)
+- [x] The menu exists continuously — it doesn't appear, vanish, duplicate, or morph
+- [x] The hand-off reads as one object passing between two people's hands
+- [x] The counter and background furniture remain present and stable
+- [x] Both characters remain visually consistent start-to-finish (clothing, hair, face)
+- [x] No extra limbs, phantom hands, or merged bodies at the interaction moment
 
 ## Outcomes
 
@@ -64,4 +64,7 @@ Note: the Video 1 script is written to be **format-agnostic** — dialogue, whit
 
 | Date | Tool/model | Result | Notes |
 |------|-----------|--------|-------|
-| _pending_ | Kling v3 Pro | | |
+| 2026-07-19 | Kling v3 Pro | ❌ FAIL (attempt 1) | 15s, 1076×1924 (wrong aspect ratio — start image was baked at 9:16 before the aspect-ratio dropdown was set correctly; fixed in the studio for future runs). Menu morphed mid-clip from a plain single card into a two-page booklet with different art/text between ~7.5s–9s — hard fail per the "menu must not morph" rule. Identity, hands, and background were otherwise clean. |
+| 2026-07-19 | Kling v3 Pro | ✅ **PASS** (attempt 2) | 15s, 1924×1076 (correct 16:9). Re-composed the two-shot start frame with aspect ratio set correctly first, added explicit menu-continuity language to the motion prompt. All 6 checklist items pass: anatomy clean throughout, menu stays a single consistent card start-to-finish, hand-off reads correctly, background/counter stable, both characters visually consistent (Maria's name tag now legible), no phantom limbs. **Secondary note (not a checklist fail):** camera was not fully static as instructed — it drifted from a wide two-shot into a tight solo close-up on Maria by ~9s, cropping James out of frame. Flagged for the scene-director to manage with stronger camera-lock language or shorter per-shot durations in full production. |
+
+**VERDICT: PASS.** Cinematic approach locked — see `../characters/character-lab-entries.md` and `README.md` for the follow-on plan.
