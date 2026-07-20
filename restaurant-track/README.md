@@ -20,9 +20,11 @@ Worker-side restaurant/hospitality English for immigrant workers (B1–B2). vidI
 
 | # | Step (from handoff v2) | Status | Where |
 |---|--------------------|--------|-------|
-| 1 | 15–30s cinematic test clip — **production gate** | ✅ **PASSED 2026-07-19** — Kling v3 Pro locked as the workhorse model | [`test-clip/test-clip-brief.md`](test-clip/test-clip-brief.md) |
+| 1 | 15–30s cinematic test clip — **production gate** | 🟡 **CONDITIONAL PASS 2026-07-19** — anatomy/menu/background risk cleared, but face-identity-drift found during an uncommanded camera close-up; follow-up test needed before Kling v3 Pro is fully locked | [`test-clip/test-clip-brief.md`](test-clip/test-clip-brief.md) |
 | 2 | Design + name the duo (server + manager) | ✅ Names LOCKED: Maria + James; turnaround sheets + face closeups approved | [`characters/character-lab-entries.md`](characters/character-lab-entries.md) |
 | 3 | Lock reference images | ✅ Both characters' turnaround sheets approved and are the anchor reference for all future scene generation | [`characters/character-lab-entries.md`](characters/character-lab-entries.md) |
+| 3a | Lip Sync test on the approved clip | ☐ Not started | [`test-clip/test-clip-brief.md`](test-clip/test-clip-brief.md) |
+| 3b | Whiteboard recap segment test | ☐ Not started — standing rule: face/ear closeups in recap framing are production-critical, same rigor as hands | [`characters/character-lab-entries.md`](characters/character-lab-entries.md) |
 | 4 | Full scripts for ALL 5 launch videos (each with whiteboard recap) | 🟡 All 5 drafted — awaiting Ruthy review | see launch table above |
 | 5 | Dual voiceovers for the launch batch | ☐ Blocked on 4 | — |
 | 6 | Compose all 5 episodes; evaluate vs. risk flag before launch + 3/week cadence | ☐ Blocked on 5 | — |

@@ -12,7 +12,7 @@ Production repository for the YouTube channel **Two Colleagues English** (`@TwoC
 
 | Track | Status | Notes |
 |-------|--------|-------|
-| 🍽️ Restaurant track | **ACTIVE — current priority** | Maria & James locked (turnaround sheets + face closeups approved); cinematic test clip PASSED 2026-07-19 — approach locked, see `restaurant-track/test-clip/test-clip-brief.md` |
+| 🍽️ Restaurant track | **ACTIVE — current priority** | Maria & James locked (turnaround sheets + face closeups approved); cinematic test clip CONDITIONAL PASS 2026-07-19 — anatomy/object-interaction risk cleared, but a face-identity-drift issue was found during an uncommanded camera close-up; follow-up test needed before Kling v3 Pro is fully locked. Lip Sync + whiteboard recap still to test. See `restaurant-track/test-clip/test-clip-brief.md` |
 | 🏢 Office track (Marcia & Dave) | SHELVED | Resumes on a separate timeline. Do NOT use Marcia & Dave for restaurant content. |
 | 🏥 Healthcare track | Planned (Month 2) | Alternating weeks with restaurant |
 | 🛒 Retail track | Planned (Month 3+) | Plus Spanish-language variant launch |
@@ -45,7 +45,7 @@ restaurant-track/            ACTIVE: restaurant pivot workspace
 
 ## Roadmap (from handoff v2 — launch = all 5 videos together, then 3/week)
 
-1. ✅ Generate 15–30s cinematic test clip (duo + single object) — **production gate PASSED 2026-07-19** (Kling v3 Pro locked as the workhorse model)
+1. 🟡 Generate 15–30s cinematic test clip (duo + single object) — **production gate CONDITIONAL PASS 2026-07-19**: anatomy/menu/background risk cleared, but a face-identity-drift issue surfaced during an uncommanded camera close-up — follow-up test needed before Kling v3 Pro is fully locked as the workhorse model
 2. ✅ Design the restaurant duo — names LOCKED (Maria + James); turnaround sheets + face closeups approved
 3. ✅ Lock reference images for the new duo — both characters' turnaround sheets are the anchor for all future scene generation
 4. 🟡 Full scripts for all 5 launch videos — all 5 drafted, awaiting review
